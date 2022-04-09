@@ -1,0 +1,2485 @@
+test_str = ("10.09.2019 21:57 - end-to-end encrypted messages and calls. No one outside of WhatsApp, including your messages and calls, he can read this conversation and listen. Tap to learn more.\n"
+
+"10.09.2019 21:06 - YL  Ben , \"the doctor badies\" group created\n"
+
+"10.09.2019 21:06 - YL  Ben added\n"
+
+"10.09.2019 21:07 - Michel Akyar : Hi guys,\n"
+
+"10.09.2019 21:07 - YL  Ben: Greetings, let's move in tomorrow?)\n"
+
+"10.09.2019 21:07 - Michel Akyar : we don't highwayden\n"
+
+"10.09.2019 21:07 - YL  Ben: Hi )\n"
+
+"10.09.2019 21:07 - Michel Akyar : let's get Early\n"
+
+"10.09.2019 21:07 - Michel Akyar : Return will return to normal\n"
+
+"10.09.2019 21:07 - YL Ben : High wayden we'll try we'll go to the path\n"
+
+"10.09.2019 21:08 - Michel Akyar : how 7\n"
+
+"10.09.2019 21:08 - YL  Ben: a driver's need approval))\n"
+
+"10.09.2019 21:08 - Michel Akyar : Driver beeey\n"
+
+"10.09.2019 21:08 - YL  Ben: 7 or 7.30\n"
+
+"10.09.2019 21:09 - Michel Akyar : Ok\n"
+
+"10.09.2019 21:58 - Jack: good night, everybody!\n"
+
+"10.09.2019 21:58 - Jack: 0730 da Banda, too, I'll be\n"
+
+"10.09.2019 22:33 - Ben YL : Jack Ok\n"
+
+"11.09.2019 06:50 - Michel Akyar : Good Morning\n"
+
+"11.09.2019 07:21 - YL  Ben: Good Morning\n"
+
+"11.09.2019 07:26 - Jack: Gentlemen, I'm on my way.\n"
+
+"11.09.2019 07:33 - Ben YL : 👍\n"
+
+"11.09.2019 07:34 -  Michel Akyar: abi you get hurt, I'll throw it in location\n"
+
+"11.09.2019 07:34 -  Michel Akyar: https //maps.google.com/?q=40.3588635,27.9771612\n"
+
+"11.09.2019 07:34 - Jack: Ok\n"
+
+"11.09.2019 07:39 - Jack: Can I'm after 2 min\n"
+
+"11.09.2019 07:40 - YL  Ben: I'm going Tmm\n"
+
+"11.09.2019 07:42 - Jack: I\n"
+
+"11.09.2019 07:44 - YL  Ben: we are coming\n"
+
+"11.09.2019 07:45 - YL  Ben: we forgot to get with a ballpoint pen)\n"
+
+"11.09.2019 07:46 -  Michel Akyar: Ok\n"
+
+"11.09.2019 08:46 - now you are a manager\n"
+
+"11.09.2019 09:28 - Ben -YL group icon changed\n"
+
+"11.09.2019 11:18 - Ben YL : Jack  I got it inside, where are you?\n"
+
+"11.09.2019 11:23 - Ben YL : Burak brother's place, we're going to\n"
+
+"11.09.2019 11:44 - YL  Ben: we've been waiting for busy\n"
+
+"11.09.2019 14:42 - YL Ben : <Media is not included>\n"
+
+"11.09.2019 14:42 - YL Ben : <Media is not included>\n"
+
+"11.09.2019 14:42 - YL Ben : <Media is not included>\n"
+
+"11.09.2019 14:42 - YL Ben : <Media is not included>\n"
+
+"11.09.2019 14:42 - YL Ben : <Media is not included>\n"
+
+"11.09.2019 20:34 - Jack: https://tr.hotels.com/ho767802208/izmir-homes-izmir-turkiye/\n"
+
+"11.09.2019 20:34 - Jack: gentlemen, how this place\n"
+
+"11.09.2019 20:55 - YL  Ben: it looks good\n"
+
+"18.09.2019 12:29 - Jack: <Media is not included>\n"
+
+"18.09.2019 12:30 - YL  Ben: the magic word that opens all doors halay)))\n"
+
+"25.09.2019 21:11 - YL  Ben: Hi, everyone, as you move the  from my home in the morning, we'll take it from there 0610-0615 pharmacy 0600 in the morning I'll see you\n"
+
+"25.09.2019 21:11 - Michel Akyar : Oki\n"
+
+"25.09.2019 21:11 - Michel Akyar : I'll see you :)\n"
+
+"25.09.2019 21:12 - YL Ben : 👍\n"
+
+"25.09.2019 23:58 - Jack: I've seen I'll see you tomorrow.\n"
+
+"26.09.2019 05:44 - Jack: good morning, I'm on my way.\n"
+
+"26.09.2019 06:00 - Ben YL : OK we are ready in 5 minutes or\n"
+
+"26.09.2019 06:02 - Michel Akyar : also 15dkya ready\n"
+
+"26.09.2019 06:04 - Jack: yim Ben in front of the house.\n"
+
+"26.09.2019 06:05 - Ben YL : all right, now we're going\n"
+
+"26.09.2019 06:14 - Jack:  min We were on our way there we're 2/3 or\n"
+
+"26.09.2019 06:15 -  Michel Akyar: bag making man very little you can wait\n"
+
+"26.09.2019 06:15 -  Michel Akyar: inference 5dkya\n"
+
+"26.09.2019 06:19 - Jack: we're out of ekomin uz waiting\n"
+
+"26.09.2019 06:20 -  Michel Akyar: Okay, I'm leaving now.\n"
+
+"26.09.2019 15:47 - Jack: Our lesson is over.\n"
+
+"26.09.2019 15:56 - Jack: <Media is not included>\n"
+
+"26.09.2019 18:35 - Ben YL : can we just take 15 minutes to cool?\n"
+
+"26.09.2019 18:40 -  Michel Akyar:\n"
+
+"26.09.2019 18:40 -  Michel Akyar: Jack to be asleep.\n"
+
+"26.09.2019 18:40 -  Michel Akyar: now that you're awake\n"
+
+"26.09.2019 18:40 - YL  Ben: okay, we can wait a little longer.\n"
+
+"26.09.2019 18:40 -  Michel Akyar: 10 15dkya\n"
+
+"26.09.2019 18:41 - Ben YL : Tmmdir\n"
+
+"26.09.2019 18:41 - Ben YL : I'll meet you in the lobby.\n"
+
+"26.09.2019 18:49 - Jack: We we're getting out of the room.\n"
+
+"26.09.2019 18:52 - YL  Ben: we also\n"
+
+"26.09.2019 18:53 - Jack: Bitcoin bad right now\n"
+
+"26.09.2019 18:57 - YL  Ben: Down\n"
+
+"26.09.2019 18:57 - YL  Ben at Reception:\n"
+
+"27.09.2019 08:21 - YL  Ben: Good Morning Vietnam downstairs for breakfast soon.\n"
+
+"27.09.2019 08:24 - Michel Akyar : Oki\n"
+
+"27.09.2019 08:24 - Michel Akyar : Good Morning bang bros\n"
+
+"27.09.2019 09:28 - Michel Akyar : at reception we are\n"
+
+"27.09.2019 09:28 - YL  Ben: Oki now we are going down\n"
+
+"27.09.2019 09:32 -  Michel Akyar: 3====D\N"
+
+"27.09.2019 09:33 -  Ben YL: :) we are\n"
+
+"27.09.2019 09:35 - Ben YL : waiting queue\n"
+
+"24.10.2019 05:51 - Jack: Good Morning, on my way,\n"
+
+"24.10.2019 05:51 - Michel Akyar : Good Morning\n"
+
+"24.10.2019 05:53 - YL  Ben: Oki ok\n"
+
+"24.10.2019 05:53 - YL  Ben: Guten morgen\n"
+
+"24.10.2019 06:04 - Jack: Can your house in 1 minute I am there\n"
+
+"24.10.2019 06:04 - YL  Ben: yes\n"
+
+"24.10.2019 06:12 - Jack:  5 minutes we're there we're on our way.\n"
+
+"24.10.2019 06:12 - Michel Akyar : I'm going to ekomini\n"
+
+"24.10.2019 06:13 - Jack: if you can come, come to the pharmacy there\n"
+
+"24.10.2019 06:13 - Jack: the economy we don't know\n"
+
+"24.10.2019 06:14 - Michel Akyar : the last place you received the La\n"
+
+"24.10.2019 06:14 - Michel Akyar : 🤣\n"
+
+"24.10.2019 06:14 - Michel Akyar : Arrow pharmacy is\N"
+
+"24.10.2019 06:18 - Jack: we are in front of the ekomi 😀\n"
+
+"1.11.2019 08:18 - Ben YL : <Media is not included>\n"
+
+"13.11.2019 11:52 -  Michel Akyar: https://www.etstur.com/Buca-Residence-Otel?utm_campaign=6480945739&utm_medium=HPA&utm_source=google&utm_content=BUCRES&utm_term=localuniversalTRtr\n"
+
+"13.11.2019 13:25 - YL  Ben: Jack that we're staying in a suite at the hotel is okay\n"
+
+"13.11.2019 13:47 - Jack: nightgown it's what works for me\n"
+
+"13.11.2019 13:48 - YL  Ben: 275\n"
+
+"13.11.2019 13:48 - Jack: stay if you want\n"
+
+"13.11.2019 13:49 - Ben YL : OK are covered in , then\n"
+
+"13.11.2019 13:49 -  Michel Akyar: I'm looking for Is\n"
+
+"13.11.2019 13:51 - Jack: can you Umay teacher. The report is done\n"
+
+"13.11.2019 13:51 - Jack: I just did word graphics and tables\n"
+
+"13.11.2019 13:52 - YL  Ben: I couldn't do more just the data I entered in spss School of business doesn't stop us e\n"
+
+"13.11.2019 13:52 - Jack: SPSS than all you're doing is\n"
+
+"13.11.2019 13:52 - Ben YL :  helped\n"
+
+"13.11.2019 13:52 - YL  Ben: yes, I'll do that\n"
+
+"13.11.2019 13:56 - Ben YL : can we go in your car this week? My school parking stickerina applied to be given to you based on the answer I'll put in. The license plate doesn't look very clear, I'll ask him.\n"
+
+"13.11.2019 13:56 - Ben YL : we have access from below, we shouldn't douche or come across any\n"
+
+"13.11.2019 13:56 -  Michel Akyar: 2 rooms had abi\n"
+
+"13.11.2019 13:57 - Michel Akyar : it's like that one bathroom with bathtub.\n"
+
+"13.11.2019 13:57 - Michel Akyar : wash and move into the bedroom while 2miz\n"
+
+"13.11.2019 13:57 - Michel Akyar : 🤣\n"
+
+"13.11.2019 13:57 - YL  Ben: the other 2 seats\n"
+
+"13.11.2019 13:57 - YL Ben : 😂\n"
+
+"13.11.2019 13:57 - Jack: p I gotta I can't make out more appointments only.Giving Tuesday\n"
+
+"13.11.2019 13:57 - YL  Ben: Okay, at least you filed or\n"
+
+"13.11.2019 13:58 - YL  Ben: THAT there\n"
+
+"13.11.2019 13:58 - YL  Ben: spoken in the heat of the appointment,\n"
+
+"13.11.2019 13:58 - YL  Ben: we can do the course with my car next 2\n"
+
+"13.11.2019 13:59 - Jack: reference, its a 10 minute job work is being done on the internet. For two days this week, I was thinking of giving it to my wife in the car\n"
+
+"13.11.2019 14:00 - Ben YL : OK then\n"
+
+"13.11.2019 14:00 - Jack: I have used a taxi when we went Last is always\n"
+
+"13.11.2019 14:01 - Ben YL : injector cleaner, I need to get from a gas station\n"
+
+"13.11.2019 14:01 - Jack: go with the bureau under normal circumstances these HGs and we need to talk we can't get\n"
+
+"13.11.2019 14:02 -  YL Ben: at that time no sense in making an application\n"
+
+"13.11.2019 14:02 - Jack: Yes, there is a bit ridiculous process\n"
+
+"13.11.2019 14:06 - YL  Ben: injector cleaner at high speed by taking the car so I watched the YouTube video I'm going to use this time not 50 $ 60 I'll take you get your information from.\n"
+
+"13.11.2019 14:07 - Michel Akyar : I got free\n"
+
+"13.11.2019 14:07 - Michel Akyar : 3\n"
+
+"13.11.2019 14:07 - YL  Ben: Tmm\n"
+
+"13.11.2019 14:08 - Jack: there is a malfunction in the vehicle can\n"
+
+"13.11.2019 14:11 - YL  Ben: a warning lamp burned it went out after we'd checked Dec Bursa injection because there wasn't time to go to the car I was never able to\n"
+
+"13.11.2019 14:12 - YL  Ben: Bursa, Turkey, said a familiar additive show when you put a mechanic in\n"
+
+"13.11.2019 14:13 - Jack: HGS me trouble, but I'll tell my wife, if the vehicle is defective.\n"
+
+"13.11.2019 14:13 - Ben YL : <Media is not included>\n"
+
+"13.11.2019 14:13 - Jack: I said I'll leave it to you\n"
+
+"13.11.2019 14:14 - YL  Ben: this alert went out after\n"
+
+"13.11.2019 14:14 - YL  Ben: get burned again\n"
+
+"13.11.2019 14:14 - Michel Akyar : there are rain tomorrow bro\n"
+
+"13.11.2019 14:14 - Michel Akyar : it really rain in the morning on the way\n"
+
+"13.11.2019 14:14 - Jack: cars figure out in terms of\n"
+
+"13.11.2019 14:15 - Jack: trouble unless it snowed uok\n"
+
+"13.11.2019 14:15 - YL  Ben: :)\n"
+
+"13.11.2019 14:16 - YL  Ben: you leave the car to his wife.\n"
+
+"13.11.2019 14:16 - YL Ben : I tried the car on the long road\n"
+
+"13.11.2019 14:16 - Jack: okay, you know\n"
+
+"13.11.2019 14:17 - YL  Ben: I hope we won't be\n"
+
+"13.11.2019 22:37 - Jack: time travel tomorrow\n"
+
+"13.11.2019 22:39 - Ben YL : for us in 05: 30 0545 gasoline additives to  and  would be before you take it I'll take it I suppose. In the doorway of the University of the water we're going to ask to get a date, or go to school a little early\n"
+
+"13.11.2019 22:40 - Jack: uncle, can you get Me from the boulevard Bandırma\n"
+
+"13.11.2019 22:40 - Jack: carpet, of course, there\n"
+
+"13.11.2019 22:41 - Ben YL : okay then I'll leave you there let's take it from Migros 0530da House?\n"
+
+"13.11.2019 22:41 - Jack: Migros tan go upstairs and easier to \n"
+
+"13.11.2019 22:41 - Ben YL : throw Location\n"
+
+"13.11.2019 22:41 - Jack: Bridge via a\n"
+
+"13.11.2019 22:42 - YL  Ben: Yes, after you install it you first \n"
+
+"13.11.2019 22:42 - Jack: Boulevard gourmet\n"
+
+"13.11.2019 22:42 - YL  Ben: Ok\n"
+
+"13.11.2019 22:42 - Jack: carpet, of course, there\n"
+
+"13.11.2019 22:42 - Michel Akyar : Okidoki\n"
+
+"13.11.2019 22:43 - Michel Akyar : I'll be ready 5.45\n"
+
+"13.11.2019 22:43 - YL  Ben: Okidoki\n"
+
+"13.11.2019 22:43 - YL Ben : you'll Jack 0535te\n"
+
+"13.11.2019 22:43 - Jack: Ok bye Good Night\n"
+
+"13.11.2019 22:48 - YL  Ben: for those who are going to Sleep Good Night)\n"
+
+"13.11.2019 22:48 -  Michel Akyar: good night, Mama\n"
+
+"13.11.2019 22:48 -  Michel Akyar: 😘\n"
+
+"14.11.2019 05:41 - Jack: Good Morning\n"
+
+"14.11.2019 05:41 - Jack: I can\n"
+
+"14.11.2019 05:08 - YL  Ben: in the morning I hayrol you leaving the house in 20 minutes.\n"
+
+"14.11.2019 05:35 - Ben  YL: do you have eraser for the exam more getting out of the house and can't get next to\n"
+
+"14.11.2019 05:37 -  Michel Akyar: There\n"
+
+"14.11.2019 05:37 - Ben YL : 👍\n"
+
+"14.11.2019 05:38 - Ben YL : Jack are you awake\n"
+
+"14.11.2019 05:41 - YL  Ben: Yeah, I'm coming\n"
+
+"14.11.2019 05:49 - Jack:  5 min We are coming\n"
+
+"14.11.2019 05:50 - Michel Akyar : Ok I'm going.\n"
+
+"14.11.2019 05:50 - Michel Akyar : ekomi I get in the front\n"
+
+"14.11.2019 12:00 - Ben YL : We must go out to dinner just the businesses we corbaaaaaaaaa\n"
+
+"14.11.2019 12:22 -  Michel Akyar: Cirrrrba\n"
+
+"14.11.2019 12:22 - Michel Akyar : I ate a dude, just keep it\n"
+
+"14.11.2019 12:26 - Ben YL : all right, we also back to school\n"
+
+"14.11.2019 18:02 - Michel Akyar : <Media is not included>\n"
+
+"15.11.2019 16:26 - Jack:  have you finished your exams and we'll go ??\n"
+
+"15.11.2019 16:56 - Michel Akyar : Wait\n"
+
+"15.11.2019 16:56 - Michel Akyar : goal I\n"
+
+"15.11.2019 16:56 -  Akyar Michel: stuff\n"
+
+"15.11.2019 16:56 - Michel Akyar : it's about now\n"
+
+"15.11.2019 16:57 - Jack: Okay we are dekafe\n"
+
+"16.11.2019 19:45 - Jack: <Media is not included>\n"
+
+"16.11.2019 20:23 - YL  Ben: Let's go visit))\n"
+
+"16.11.2019 20:26 -  Michel Akyar: 🤣🤣🤣\n"
+
+"11.12.2019 22:34 - Jack: Tomorrow what is a program?\n"
+
+"11.12.2019 22:34 - Ben YL : 6 move from my home\n"
+
+"11.12.2019 22:35 - Jack: can you get Me from the same place.\n"
+
+"11.12.2019 22:35 - Ben YL : I'll take it then, you pick at 6, I)\n"
+
+"11.12.2019 22:35 - Jack: Okay, good night, bye\n"
+
+"11.12.2019 22:36 - Ben YL : good night bye\n"
+
+"11.12.2019 22:36 -  Michel Akyar: from the highway run\n"
+
+"11.12.2019 22:36 -  Michel Akyar: 6 and we we'll make it\n"
+
+"11.12.2019 22:38 - YL Ben : I'll take gas when I take 6 view we were just catching up, I guess there's trouble ahead expensive highway man\n"
+
+"11.12.2019 22:38 - Michel Akyar : 9.30 am we can arrive\n"
+
+"11.12.2019 22:39 -  Michel Akyar: 5.30 out of 10 minutes, as though we had arrived early so it was nice last\n"
+
+"11.12.2019 22:39 - Ben YL : without mishap, we arrive\n"
+
+"11.12.2019 22:39 -  Michel Akyar: oki\n"
+
+"11.12.2019 22:39 -  Michel Akyar: goodnight honey\n"
+
+"11.12.2019 22:39 -  Michel Akyar: psg ace squad\n"
+
+"11.12.2019 22:39 - Michel Akyar : as gs 5-0\n"
+
+"11.12.2019 22:40 -  Ben YL: :) good night for leadership group\n"
+
+"12.12.2019 05:54 - YL  Ben: Good Morning, rumors have been floating around 0610 Jack gas before getting out of the house I'll pick you up, if you\n"
+
+"12.12.2019 05:55 - Jack: Ok bye\n"
+
+"12.12.2019 06:04 - YL  Ben: I got Gas\n"
+
+"12.12.2019 06:07 - Michel Akyar : I just woke up\n"
+
+"12.12.2019 06:07 - Michel Akyar : just a sec I\n"
+
+"12.12.2019 06:08 - Jack: I'm in front of the boulevard now I'm waiting\n"
+
+"12.12.2019 06:13 - Jack:  there in five minutes and we're\n"
+
+"12.12.2019 06:13 - Michel Akyar : Also I don't 5dkya🤣\n"
+
+"12.12.2019 06:14 - Michel Akyar : I will immediately prepared to ekomini\n"
+
+"12.12.2019 06:16 - Jack: we are\n"
+
+"12.12.2019 06:17 - Michel Akyar : Max 4dk\n"
+
+"12.12.2019 09:30 - Jack: <Media is not included>\n"
+
+"12.12.2019 17:27 - Jack: how long will this take \n"
+
+"12.12.2019 17:27 -  Michel Akyar: I\n"
+
+"16.12.2019 19:20 - Jack: gentlemen, good evening this week I'm going to Izmir\n"
+
+"16.12.2019 19:20 -  Michel Akyar: bro, I'll go too.\n"
+
+"16.12.2019 19:20 - Jack: who are you coming from ??\n"
+
+"16.12.2019 19:21 -  Michel Akyar: 2days go\n"
+
+"16.12.2019 19:21 - Michel Akyar : the last 3 weeks already\n"
+
+"16.12.2019 19:21 -  Michel Akyar: I'm going too 3unde\n"
+
+"16.12.2019 19:21 -  Michel Akyar: I have finals presentation 1inde 1ind\n"
+
+"16.12.2019 19:21 - Michel Akyar : the last lesson this week\n"
+
+"16.12.2019 19:22 - Jack: OK I'll go two days with me, but the next time we do my wife to stay at the club.\n"
+
+"16.12.2019 19:22 - Michel Akyar : no problem I'll stay with this cousin\n"
+
+"16.12.2019 19:22 - Michel Akyar : can gelmice like I said,\n"
+
+"16.12.2019 19:22 - YL  Ben: this week probably I can't come today, the company's vice dean simulators days last Thursday and Friday I learned from the future of technology method to correct the deficiencies. Well hit me)\n"
+
+"16.12.2019 19:23 -  Michel Akyar: oki\n"
+
+"16.12.2019 19:30 - Jack: OK I'll see , then\n"
+
+"16.12.2019 19:31 - Ben YL : carefully you a safe journey back\n"
+
+"16.12.2019 19:32 - Ben YL : Jack can you sum up when I read this book?)\n"
+
+"16.12.2019 19:32 - Jack: OK you begin to read more, but\n"
+
+"16.12.2019 19:32 - Ben YL : Wednesday we'll talk Tmm\n"
+
+"16.12.2019 19:32 -  Michel Akyar: abi we'll be in touch.\n"
+
+"18.12.2019 12:45 - Michel Akyar : Jack\n"
+
+"18.12.2019 12:45 - Michel Akyar : we don't go\N"
+
+"18.12.2019 12:46 -  Michel Akyar tomorrow morning\n"
+
+"18.12.2019 12:46 - Jack: yes, I'll pick you up morning Te 0615\n"
+
+"18.12.2019 12:46 -  Michel Akyar: ok\n"
+
+"18.12.2019 12:46 -  Michel Akyar: I kissed\n"
+
+"18.12.2019 13:06 - Jack: ✔️\n"
+
+"24.12.2019 17:45 - Michel Akyar : I got the room\n"
+
+"24.12.2019 17:46 -  Michel Akyar: Buca residence\n"
+
+"24.12.2019 17:46 - YL Ben : 👍\n"
+
+"24.12.2019 17:46 -  Michel Akyar: 3 pistols\n"
+
+"24.12.2019 17:46 - YL  Ben: full)\N"
+
+"24.12.2019 17:46 - Jack: ✔️\n"
+
+"24.12.2019 17:46 -  Michel Akyar: on Thursday night\n"
+
+"26.12.2019 05:30 - Jack: good morning, everybody.\n"
+
+"26.12.2019 06:00 - Ben YL : Good Morning, getting out of the house in 5 minutes\n"
+
+"26.12.2019 06:01 - Jack: Ok bye\n"
+
+"26.12.2019 09:45 - Michel Akyar : geldinizm\n"
+
+"26.12.2019 09:45 - Michel Akyar : Landowners\n"
+
+"26.12.2019 09:46 - Jack: less\n"
+
+"26.12.2019 09:49 -  Michel Akyar: when you can't write\n"
+
+"26.12.2019 09:49 -  Michel Akyar: I'll throw stuff in the car.\n"
+
+"26.12.2019 09:50 - Michel Akyar : I'm in the cafeteria following\n"
+
+"26.12.2019 09:50 - Jack: 5 min after\n"
+
+"26.12.2019 09:51 - Michel Akyar : Tmm call I'll be right back.\n"
+
+"26.12.2019 09:54 - Jack: Demiiiiiir come to the parking area.\n"
+
+"26.12.2019 09:55 - Michel Akyar : Ok\n"
+
+"26.12.2019 17:08 - Jack: our lesson is over.\n"
+
+"26.12.2019 17:08 - Michel Akyar : my bro got some more\n"
+
+"26.12.2019 17:28 - YL  Ben: the teacher who come to the service, I think)\n"
+
+"26.12.2019 17:38 - Michel Akyar : I\n"
+
+"26.12.2019 17:38 - Michel Akyar : Where Are you\n"
+
+"26.12.2019 17:38 - Jack: front Dekaş\n"
+
+"26.12.2019 17:38 - Michel Akyar : what Yaw Dekaş\n"
+
+"26.12.2019 19:27 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"26.12.2019 19:49 - Ben YL : <Media is not included>\n"
+
+"12.02.2020 12:24 - YL  Ben: are you going Izmir Demir Jack Hello Tomorrow we've got a place for 3 people at the hotel.\n"
+
+"12.02.2020 13:29 - Jack: I'll call you when I'm coming\n"
+
+"14.02.2020 17:08 - Jack: https://sks.deu.edu.tr/sosyal-tesislerimiz/dokuz-eylul-universitesi-ogrenci-yurdu-konukevi/\n"
+
+"14.02.2020 17:09 - Jack: not to be here next week,\n"
+
+"14.02.2020 17:09 - Jack: beautiful place I stayed in this week\n"
+
+"15.02.2020 11:11 - YL Ben : 👍\n"
+
+"18.02.2020 09:42 - Jack: <Media is not included>\n"
+
+"18.02.2020 09:43 - Jack: deukonukevi@hotmail.com\n"
+
+"18.02.2020 09:43 - YL  Ben: Super Thanks\n"
+
+"18.02.2020 09:45 - Jack: I told the clerk that it would be good if you send until noon\n"
+
+"18.02.2020 09:45 - Jack: when we will give you a photocopy of ID\n"
+
+"18.02.2020 09:45 - YL  Ben: all right now we are taking\n"
+
+"18.02.2020 09:49 - Ben YL : no student left and bottom I added\n"
+
+"18.02.2020 09:51 - Ben YL : <Media is not included>\n"
+
+"18.02.2020 09:54 - Michel Akyar : <Media is not included>\n"
+
+"18.02.2020 09:54 - Jack: I gave up after a moment's thought:-)\n"
+
+"18.02.2020 09:55 - YL Ben : do they know we're staying in the same place?\n"
+
+"18.02.2020 09:55 - YL  Ben: :)\n"
+
+"18.02.2020 09:56 - Jack: Yes\n"
+
+"18.02.2020 09:56 - Jack: in the morning I spoke\n"
+
+"18.02.2020 09:56 - Ben YL : Ok\n"
+
+"18.02.2020 09:57 - Michel Akyar : this message has been deleted\n"
+
+"18.02.2020 09:57 - Michel Akyar : it wasn't clear\n"
+
+"18.02.2020 09:58 - Michel Akyar : <Media is not included>\n"
+
+"18.02.2020 09:58 - Michel Akyar : yes\n"
+
+"18.02.2020 09:58 - YL Ben : 👍\n"
+
+"18.02.2020 09:58 - YL  Ben: I sent\n"
+
+"18.02.2020 10:00 - Michel Akyar : write down something in the mail\n"
+
+"18.02.2020 10:00 - Ben YL : I wrote\n"
+
+"18.02.2020 10:01 - Jack: I haven't written it, there is three people waiting for information\n"
+
+"18.02.2020 10:02 - Ben YL : Hotmail, they're using?))\n"
+
+"18.02.2020 10:02 - Jack: Yes\n"
+
+"18.02.2020 10:02 - Ben YL : not massage parlor))))\n"
+
+"18.02.2020 10:02 - Ben YL : Tmm 👍\n"
+
+"18.02.2020 10:05 - Ben YL : Jack What Have you done homework?\n"
+
+"18.02.2020 10:06 - Jack: Today inshallah 😀\n"
+
+"18.02.2020 10:06 - YL  Ben: de\n"
+
+"18.02.2020 11:58 - Michel Akyar : and I sent\n"
+
+"19.02.2020 11:40 - YL  Ben: Hello Jack there is WiFi in the guest house?\n"
+
+"19.02.2020 11:43 - Jack: I don't know\n"
+
+"19.02.2020 11:43 - Jack: I haven't tried it last week and I didn't ask :)\n"
+
+"19.02.2020 11:54 - YL  Ben: all right, we'll see this week have homework)\n"
+
+"19.02.2020 14:03 - Jack: <Media is not included>\n"
+
+"19.02.2020 22:30 - Jack: Morning getting everyone out of the house in order I get te 0615\n"
+
+"19.02.2020 22:44 - YL Ben : , enough to get me going with his family, Michel Jack)\n"
+
+"19.02.2020 22:52 - Jack: Ok bye\n"
+
+"19.02.2020 22:53 - YL  Ben: Bye\n"
+
+"20.02.2020 16:25 - Jack: <Media is not included>\n"
+
+"20.02.2020 16:25 - Ben YL : the guy looks more professional))\n"
+
+"20.02.2020 17:12 -  Michel Akyar: Where Are you\n"
+
+"20.02.2020 17:12 - Jack: Expect\n"
+
+"20.02.2020 17:12 - Jack: Class,\n"
+
+"20.02.2020 17:13 - Michel Akyar : Ok\n"
+
+"20.02.2020 17:13 -  Michel Akyar: we are\n"
+
+"21.02.2020 15:25 - YL  Ben: our lesson what you have done ?\n"
+
+"21.02.2020 15:35 - Michel Akyar : I will 1dk\n"
+
+"21.02.2020 16:01 - Michel Akyar : goal I\n"
+
+"21.02.2020 16:01 - Michel Akyar : the goal is to run away and I like\n"
+
+"21.02.2020 16:01 - Jack: Expect\n"
+
+"21.02.2020 16:14 - Michel Akyar : Ok\n"
+
+"21.02.2020 16:14 - Michel Akyar : Cikcam soon\n"
+
+"21.02.2020 16:14 - Jack: Ok\n"
+
+"21.02.2020 16:27 -  Michel Akyar: 5 10dkya I'll\n"
+
+"21.02.2020 16:27 - Ben YL : We are stuck in a traffic jam or Super)\n"
+
+"21.02.2020 16:41 - Jack: Driver in riots😁\n"
+
+"21.02.2020 16:45 - Michel Akyar : I\n"
+
+"24.02.2020 10:21 - Jack: gentlemen, good morning\n"
+
+"24.02.2020 10:21 - Jack: if we're going to stay in the same place, today we should petition for a\n"
+
+"24.02.2020 10:21 - YL  Ben: I'll be back I'm going to Edirne night tasked\n"
+
+"24.02.2020 10:22 - Ben YL : Night of the petition author\n"
+
+"24.02.2020 10:22 - YL  Ben: good morning, by the way) the day will go to Tuesday\n"
+
+"24.02.2020 10:22 - Jack: FYI I'm writing Right Now\n"
+
+"24.02.2020 10:22 - YL  Ben: I don't know how I could do Homework ak\n"
+
+"24.02.2020 10:22 - YL  Ben: okay, thank you\n"
+
+"24.02.2020 10:23 - Jack: Wednesday all I'll do today and tomorrow also I have a lot of\n"
+
+"24.02.2020 10:23 - Jack: bon voyage\n"
+
+"24.02.2020 10:25 - YL  Ben: thank you 👋\n"
+
+"24.02.2020 10:30 - Jack: <Media is not included>\n"
+
+"24.02.2020 10:34 - Ben YL : pls try again unfortunately I am sadly informing that your letter has been rejected)))\n"
+
+"24.02.2020 10:34 - Jack: 😭\n"
+
+"24.02.2020 10:35 - Ben YL : 😂\n"
+
+"24.02.2020 11:43 -  Michel Akyar: what petition this man every week :D\N"
+
+"24.02.2020 11:44 - Jack: Ask write monthly 😁\n"
+
+"24.02.2020 11:44 -  Michel Akyar: exactly aq\n"
+
+"26.02.2020 10:49 -  Michel Akyar: gentlemen, what can you do\n"
+
+"26.02.2020 10:49 - Michel Akyar : you again tomorrow night guesthouse deu\n"
+
+"26.02.2020 11:05 - Ben YL : Yeah bro, but our course status unclear for Friday\n"
+
+"26.02.2020 11:13 -  Michel Akyar: petition I sent\n"
+
+"26.02.2020 12:09 - Jack: Izmir now for sure I will stay statement\n"
+
+"26.02.2020 12:28 - YL  Ben: Friday will you be back?\n"
+
+"26.02.2020 12:28 - Jack: Friday I'll be back Thursday evening lesson or\n"
+
+"26.02.2020 12:30 - YL  Ben: join the conference, they said.\n"
+
+"26.02.2020 12:30 - Jack: Friday I'll be back, then\n"
+
+"26.02.2020 12:31 - YL  Ben: I'd like to return and Thursday, but go to\n"
+
+"26.02.2020 13:00 - Jack: you're coming tomorrow, aren't you.\n"
+
+"26.02.2020 13:01 -  YL Ben: yes, God willing,\n"
+
+"26.02.2020 13:02 - Jack: Okay, I'll see you in my house now that I have come to\n"
+
+"26.02.2020 13:03 - YL  Ben: Okay, I sent the petition.\n"
+
+"26.02.2020 13:11 - Jack: <Media is not included>\n"
+
+"26.02.2020 13:11 - Jack: a room for tomorrow will be\n"
+
+"26.02.2020 13:11 - Jack: I'll be stuck for an extra day\n"
+
+"26.02.2020 13:11 - YL  Ben: Nays\n"
+
+"26.02.2020 13:14 - Michel Akyar : Jack warm up my bed.\n"
+
+"26.02.2020 13:15 - Jack: warm up, sure, but which one is yours\n"
+
+"26.02.2020 13:21 - YL  Ben: what's going on or where you fell like) I'll lay out there in the car safer. Call 155i\n"
+
+"26.02.2020 13:21 - YL  Ben: the guesthouse you can't go again))\n"
+
+"26.02.2020 13:22 - Jack: 😀\n"
+
+"26.02.2020 13:22 - Michel Akyar : 😂😂\n"
+
+"27.02.2020 16:42 - YL  Ben: what time the lesson ends?\n"
+
+"27.02.2020 16:58 - Michel Akyar : 5dkya\n"
+
+"27.02.2020 16:58 - Michel Akyar : now Bitircek\n"
+
+"27.02.2020 23:46 - YL  Ben: test\n"
+
+"28.02.2020 10:37 - Ben YL :  where\n"
+
+"28.02.2020 10:42 -  Michel Akyar: Faculty of Science and letters.\n"
+
+"28.02.2020 10:42 - Michel Akyar : of course we are\n"
+
+"28.02.2020 10:42 -  Michel Akyar: 12de presumably ends\n"
+
+"28.02.2020 10:42 - Michel Akyar : I'll be right out.\n"
+
+"28.02.2020 10:43 - Ben YL : Tmm\n"
+
+"28.02.2020 11:59 - Michel Akyar : I gelio\n"
+
+"28.02.2020 12:00 - Jack: Ar started over\n"
+
+"28.02.2020 12:06 - YL  Ben: we are cakabey\n"
+
+"28.02.2020 12:06 - Michel Akyar : Ok\n"
+
+"28.02.2020 12:06 - YL  Ben: Presentation session started\n"
+
+"28.02.2020 12:06 - YL  Ben: and then we gonna eat on the upper floor of the mess hall\n"
+
+"28.02.2020 12:07 - Michel Akyar : ok I\n"
+
+"28.02.2020 12:07 - Michel Akyar : Elif yanindyim\n"
+
+"28.02.2020 12:08 - YL  Ben: Ok\n"
+
+"28.02.2020 12:11 - Michel Akyar : you look very sexy.\n"
+
+"28.02.2020 12:12 - YL Ben : 🤩\n"
+
+"28.02.2020 12:19 - Michel Akyar : Bune la\n"
+
+"28.02.2020 12:19 - Michel Akyar : Providers zombie-like\n"
+
+"28.02.2020 12:19 - YL  Ben: the effect of the movie last night continues)\n"
+
+"28.02.2020 12:21 -  Michel Akyar: 😂😂😂\n"
+
+"2.03.2020 16:04 - Jack: <Media is not included>\n"
+
+"2.03.2020 16:05 - Jack: Guys note\n"
+
+"2.03.2020 16:37 - Ben YL : 👍\n"
+
+"4.03.2020 19:04 -  Michel Akyar: Fellas\n"
+
+"4.03.2020 19:04 -  Michel Akyar: Hi\n"
+
+"4.03.2020 19:05 - Michel Akyar : Dad, can you go Tomorrow Jack 5 times\n"
+
+"4.03.2020 19:05 - Michel Akyar : if you bought us 5bucukta\n"
+
+"4.03.2020 19:05 - Michel Akyar : Life teacher talk, too.\n"
+
+"4.03.2020 19:06 - Michel Akyar : And he would not say late in peace we'll go we'll miss\n"
+
+"4.03.2020 19:15 - Jack: good evening, I'm going normally  in 3 hours 😋\n"
+
+"4.03.2020 19:15 - Jack: at six in the morning I'll take you.\n"
+
+"4.03.2020 19:17 - Jack: we will be there at nine\n"
+
+"4.03.2020 19:17 -  Michel Akyar: I guess that's how it starts our lesson 8.45 abi\n"
+
+"4.03.2020 19:17 -  Michel Akyar: Full-I haven't figured out\n"
+
+"4.03.2020 19:18 - Jack: wife next\n"
+
+"4.03.2020 19:18 - Jack: that's what started your course\n"
+
+"4.03.2020 19:18 -  Michel Akyar: starts at the latest 9\n"
+
+"4.03.2020 19:18 - Jack: nine and a half, he thought m\n"
+
+"4.03.2020 19:19 - Michel Akyar : they went after 2 courses\n"
+
+"4.03.2020 19:19 - Michel Akyar : I took some of her earlier\n"
+
+"4.03.2020 19:19 - Jack: We pick you up at Five Thirty, at forty-five I'll let you go then you\n"
+
+"4.03.2020 19:19 - Michel Akyar : OK bro\n"
+
+"4.03.2020 19:19 - Michel Akyar : thank you\n"
+
+"4.03.2020 19:19 - Jack: it's no problem, we'll catch up.\n"
+
+"4.03.2020 19:20 - Michel Akyar : Ok\n"
+
+"4.03.2020 19:20 -  Michel Akyar: no need to rush in case\n"
+
+"4.03.2020 19:20 -  Michel Akyar: we sleep little early\n"
+
+"4.03.2020 19:20 -  Michel Akyar: 5: 30 we'll leave\n"
+
+"4.03.2020 19:21 -  Michel Akyar: 5.40 I'll be ready\n"
+
+"4.03.2020 19:21 - Jack: Okay, I'll see you tomorrow morning.\n"
+
+"4.03.2020 19:21 -  Michel Akyar: see\n"
+
+"4.03.2020 19:44 - YL Ben : 👋\n"
+
+"5.03.2020 05:39 - Ben YL : we're coming, we're on our way \n"
+
+"5.03.2020 05:41 - Michel Akyar : Ok\n"
+
+"5.03.2020 05:41 - Michel Akyar : When summer\n"
+
+"5.03.2020 05:41 - Michel Akyar : Immediately let out\n"
+
+"5.03.2020 05:45 - YL  Ben: We ekomini we are\n"
+
+"5.03.2020 05:45 -  Michel Akyar: Arrow going down\n"
+
+"5.03.2020 13:22 - Jack:  our classes are over for now.\n"
+
+"5.03.2020 13:22 - Jack: what is your status\n"
+
+"5.03.2020 13:24 - Michel Akyar : my teacher I happen Gulde\n"
+
+"5.03.2020 13:24 -  Michel Akyar: 2\n"
+
+"5.03.2020 13:24 - Michel Akyar : you finished too early\n"
+
+"5.03.2020 13:25 -  Michel Akyar: oray no buses to the country\ \ n"
+
+"5.03.2020 13:26 - Jack: you come to the station, I'll get you out of there.\n"
+
+"5.03.2020 13:26 - Jack: Today simartMichel eat outside ourselves\n"
+
+"5.03.2020 13:26 - Michel Akyar : ok\n"
+
+"5.03.2020 17:12 - Michel Akyar : out-of-school leaving now.\n"
+
+"5.03.2020 17:12 -  Michel Akyar: slow bride\n"
+
+"5.03.2020 17:12 -  Michel Akyar: I'll take 878e\n"
+
+"5.03.2020 17:12 -  Michel Akyar: I'll meet you where\n"
+
+"5.03.2020 17:19 - Michel Akyar : <Media is not included>\n"
+
+"5.03.2020 17:45 - YL  Ben: we are in front of the hotel\n"
+
+"5.03.2020 17:45 - Michel Akyar : <Media is not included>\n"
+
+"5.03.2020 17:47 - YL  Ben: we're ahead of the construction loan\n"
+
+"5.03.2020 17:49 - Michel Akyar : <Media is not included>\n"
+
+"5.03.2020 17:50 - Ben YL : OK then\n"
+
+"5.03.2020 17:51 - YL  Ben: we're going to the usual place\n"
+
+"5.03.2020 17:51 - Michel Akyar : <Media is not included>\n"
+
+"5.03.2020 17:51 - Ben YL : Soup we say.\n"
+
+"5.03.2020 17:51 - Michel Akyar : <Media is not included>\n"
+
+"5.03.2020 17:56 - Ben YL : apple squash we'll have to come and tell you\n"
+
+"5.03.2020 19:17 -  Michel Akyar the icon of this group changed\n"
+
+"5.03.2020 22:48 -  Michel Akyar: https://www.sahibinden.com/ilan/vasita-otomobil-honda-turkiye-de-tek-hatasiz-mermi-gibi-full-aksesuar-otomatik-795075899/detay\n"
+
+"5.03.2020 22:51 - Michel Akyar : https://www.sahibinden.com/ilan/vasita-otomobil-honda-tr-tek-ozel-yapim-190-hp-honda-795044272/detay\n"
+
+"6.03.2020 10:26 -  Michel Akyar: my name is bitee gbi 2 3\n"
+
+"6.03.2020 10:26 -  Michel Akyar: Ends\n"
+
+"6.03.2020 11:44 -  Michel Akyar: <Media is not included>\n"
+
+"6.03.2020 15:08 - Michel Akyar : Out\n"
+
+"6.03.2020 15:08 - Michel Akyar : you're in class\n"
+
+"6.03.2020 15:17 - Jack: thirty at end\n"
+
+"6.03.2020 15:35 - Jack: now the lesson is over\n"
+
+"6.03.2020 15:44 - YL  Ben: what was the name of the course Jack\n"
+
+"6.03.2020 15:51 - YL  Ben: we're drinking coffee outside a brown coloured head, or\n"
+
+"6.03.2020 15:51 - YL  Ben: Cafe\n"
+
+"6.03.2020 15:51 - Jack: where is my computer\n"
+
+"6.03.2020 15:53 - YL  Ben: I\n"
+
+"6.03.2020 16:42 - YL Ben : https://www.google.com/url?q=http://vids697714.mcporno9.com/video.php?id%3D6977\n"
+
+"12.03.2020 11:32 - Ben YL : guest house have you spoken with? Tomorrow we won't be\n"
+
+"12.03.2020 11:33 - Jack: email now I\n"
+
+"12.03.2020 11:33 - Ben YL : 👍\n"
+
+"12.03.2020 11:35 - Jack: now I sent\n"
+
+"12.03.2020 11:36 - Ben YL : the two of us we'll go all  won't be coming this week. Our hours we'll talk tonight.\n"
+
+"12.03.2020 11:36 - Jack: Ok bye\n"
+
+"20.03.2020 13:36 - Jack: Guys do you live?\n"
+
+"20.03.2020 13:37 - Jack: multiuser would you like to get Netflix there was such a thing as\n"
+
+"20.03.2020 13:37 - Jack: you get something like £ 5-10 per month\n"
+
+"21.03.2020 22:26 - Ben YL : Jack busy with traffic and I saw a new message Hi whatsapp and my cousin and my brother that we're doing it now option right now I'm playing football manager for a free 1 Week I can't look netflixe)) what do you do\n"
+
+"21.03.2020 23:48 - Michel Akyar : and thank you, brother, or array, etc I already watch a whole lot of I have two arrays, they are also illegal sites-there are😅\n"
+
+"21.03.2020 23:49 - Michel Akyar : I have most of the Netflix series sites other directory\n"
+
+"21.03.2020 23:49 -  Michel Akyar: Dizibox or something\n"
+
+"22.03.2020 14:16 - Jack: we're trying to stay in the house with us. Enpara last Account I opened I saw there. Netflix %50indirimli because that's why I asked. Pretty cheap\n"
+
+"22.03.2020 14:20 - Ben YL : Jack well in a lot of accounts, I'm a little envious :) from 200 to 300 thousand in each account)) but has its rules to take advantage of the discount enpara\n"
+
+"22.03.2020 14:20 - Jack: 😋\n"
+
+"22.03.2020 14:20 - Jack: I provide Conditions\n"
+
+"22.03.2020 14:21 - YL  Ben: Wow 👏\n"
+
+"22.03.2020 14:21 - YL  Ben: 3 people, how much is coming in\n"
+
+"22.03.2020 14:21 - Jack: 20tl 4kisi\n"
+
+"22.03.2020 14:21 - Ben  YEAR: month?\n"
+
+"22.03.2020 14:21 - Jack: Yes\n"
+
+"22.03.2020 14:22 - Jack: Total 20tl\n"
+
+"22.03.2020 14:22 - Jack: I tried to buy because it's cheap I\n"
+
+"22.03.2020 14:22 - Jack: Normally 4-40 pounds-user 2-user 30 pounds.\n"
+
+"22.03.2020 14:23 - YL  Ben: I can stop 2 people\n"
+
+"22.03.2020 14:24 - YL  Ben: how many kontenjanlik there is no place\n"
+
+"22.03.2020 14:24 - YL Ben :  amk fee of 1 person in you)))\n"
+
+"22.03.2020 14:24 - Jack: Best right price was so cheap I didn't know\n"
+
+"22.03.2020 14:24 - YL  Ben: Yes, Good.\n"
+
+"22.03.2020 14:24 - Jack: First wrote to you\n"
+
+"22.03.2020 14:25 - YL  Ben: Thanks I appreciate Jack this is too much. You are my best buddies that show you one of my PhD))))\n"
+
+"22.03.2020 14:25 - YL  Ben: where Demirrrrrrrrrrrrr olm\n"
+
+"22.03.2020 14:25 - Jack: 😀\n"
+
+"22.03.2020 14:26 - Jack: I was going to get cut\n"
+
+"22.03.2020 14:26 - Jack: how to lower price if man\n"
+
+"22.03.2020 14:26 - Ben YL   : like))\n"
+
+"22.03.2020 14:27 - Jack: single user 2 user 4 user's\n"
+
+"22.03.2020 14:28 - YL  Ben: Yes options\n"
+
+"22.03.2020 14:28 - Jack: Netflix fourth searching for the e ... \n"
+
+"22.03.2020 14:28 -  Michel Akyar: May 5liraysa\n"
+
+"22.03.2020 14:28 -  Michel Akyar: 🤣\n"
+
+"22.03.2020 14:28 - Ben YL :  way to go\n"
+
+"22.03.2020 14:29 - Ben YL : 👏\n"
+
+"22.03.2020 14:30 - Jack: if you would want to come home from school for a fourth\n"
+
+"22.03.2020 14:44 - YL  Ben: summer Jack me PAX 2\n"
+
+"22.03.2020 14:44 - Jack:  included are two\n"
+
+"22.03.2020 14:45 - YL Ben : none\n"
+
+"22.03.2020 14:45 - Jack: formula = \n"
+
+"2xCan ++Jack\n"
+
+"22.03.2020 14:45 - YL  Ben: I 2 I)\n"
+
+"22.03.2020 14:45 - YL  Ben: Yes\n"
+
+"22.03.2020 14:46 - YL  Ben: we'll talk about sending money\n"
+
+"22.03.2020 14:46 - Jack: OK tonight I'll let you know\n"
+
+"22.03.2020 14:47 - Ben YL : Tmmdir\n"
+
+"22.03.2020 15:01 - Michel Akyar : Dude HD package\n"
+
+"22.03.2020 15:02 - Michel Akyar : write us what the options\n"
+
+"22.03.2020 15:02 - Michel Akyar : get a clear image.\n"
+
+"22.03.2020 15:06 - YL  Ben: the movie and the show, do you want to feel?)))\n"
+
+"22.03.2020 15:22 - Michel Akyar : the core of my both\n"
+
+"22.03.2020 15:22 - Michel Akyar : 😏\n"
+
+"22.03.2020 15:22 - YL  Ben: :)))) sexflix need for him\n"
+
+"22.03.2020 15:37 -  Michel Akyar: 🤣🤣🤣\n"
+
+"22.03.2020 15:46 - Jack: <Media is not included>\n"
+
+"22.03.2020 15:46 - Jack: the terms in this way,\n"
+
+"22.03.2020 15:46 - Jack: one month will be 27tl\n"
+
+"22.03.2020 15:47 - Jack: 15tl Card Monthly was down\n"
+
+"22.03.2020 15:47 - Ben YL : 27/4 so\n"
+
+"22.03.2020 15:47 - Jack: Yes Ultra HD have\n"
+
+"22.03.2020 15:48 - Jack: I just looked\n"
+
+"22.03.2020 15:48 - YL  Ben: the trades that changed the price you're like when you go into the vault Jack)))\n"
+
+"22.03.2020 15:48 - Jack: do you agree?\n"
+
+"22.03.2020 15:48 - Jack: 😀\n"
+
+"22.03.2020 15:48 - Jack: a slight increase was\n"
+
+"22.03.2020 15:48 - YL  Ben: Update\n"
+
+"22.03.2020 15:49 - Ben YL : I'll take it it doesn't matter.\n"
+
+"22.03.2020 15:49 - Jack: yes indeed update\n"
+
+"22.03.2020 15:49 - Ben YL : good price, again\n"
+
+"22.03.2020 15:49 - Jack: do you take \n"
+
+"22.03.2020 15:52 -  Michel Akyar: how many so\n"
+
+"22.03.2020 15:52 -  Michel Akyar: the demi Ptemium\n"
+
+"22.03.2020 15:52 -  Michel Akyar: 1 person 6lira\n"
+
+"22.03.2020 15:52 -  Michel Akyar: 7\n"
+
+"22.03.2020 15:52 - Jack: yeah that will be something like\n"
+
+"22.03.2020 15:53 - Jack: Premium\n"
+
+"22.03.2020 15:53 - Michel Akyar : Ok\n"
+
+"22.03.2020 15:53 - Michel Akyar : Accept\n"
+
+"22.03.2020 16:01 - Jack: Tomorrow I'm going to start\n"
+
+"22.03.2020 16:01 - Jack: I'll let you know\n"
+
+"22.03.2020 16:01 - Ben YL : Tmm 👍\n"
+
+"22.03.2020 16:14 - Jack: <Media is not included>\n"
+
+"22.03.2020 16:14 - Jack: do not share it with anyone, but\n"
+
+"22.03.2020 16:14 - Jack: Password 3945\n"
+
+"22.03.2020 16:22 -  Michel Akyar: 🤣🤣🤣\n"
+
+"22.03.2020 16:23 - Ben YL : 👍\n"
+
+"22.03.2020 16:30 - YL  Ben: nahi Uncle, hopefully draws to Corona))\n"
+
+"22.03.2020 16:32 - Jack: this is real.. this is also the government officials.. because it is not yet a government report, officer, What did 😀\n"
+
+"22.03.2020 16:33 - Ben YL : :))\n"
+
+"22.03.2020 19:16 - Michel Akyar : let's netflix Right Now\n"
+
+"22.03.2020 19:16 - Michel Akyar : I'm curious\n"
+
+"22.03.2020 20:10 - Jack: not too expensive, I think.\n"
+
+"23.03.2020 11:59 - Jack: Good Morning\n"
+
+"23.03.2020 11:59 - Michel Akyar : hi\n"
+
+"23.03.2020 11:59 - Michel Akyar : let's\n"
+
+"23.03.2020 12:02 - Jack: Jackerdonmez@yahoo.com\n"
+
+"23.03.2020 12:02 - Jack: Doktora3\n"
+
+"23.03.2020 12:02 - Jack: these are the user name and password\n"
+
+"23.03.2020 12:02 - Jack: 4 I logged on, everyone with their own name\n"
+
+"23.03.2020 12:03 - Jack: Can 1 and can 2\n"
+
+"23.03.2020 12:03 - Jack:  and Jack\n"
+
+"23.03.2020 12:03 - Jack: motherland and the nation's opening to get better done it that way.\n"
+
+"23.03.2020 12:06 - YL Ben : 👍 I'm at school I'll try when I get home\n"
+
+"23.03.2020 12:06 - YL  Ben: thank you\n"
+
+"23.03.2020 12:27 - Ben YL : it says account not found.\n"
+
+"23.03.2020 12:27 - Ben YL : do I bind you?\n"
+
+"23.03.2020 12:27 - Jack: Yes I entered\n"
+
+"23.03.2020 12:27 - Jack: capitMichelzation watch out\n"
+
+"23.03.2020 12:27 - Ben YL : OK cm wrote I write com)\n"
+
+"23.03.2020 12:28 - YL Ben : <Media is not included>\n"
+
+"23.03.2020 12:28 - Jack: That\n"
+
+"23.03.2020 12:30 - Michel Akyar : no problem my bro entry\n"
+
+"23.03.2020 12:30 - Michel Akyar : where we're doing eft d:\n"
+
+"23.03.2020 12:30 - Michel Akyar : if I pay the yearly collective\n"
+
+"23.03.2020 12:30 - Michel Akyar : 7*12\N"
+
+"23.03.2020 12:30 - Jack: Year I think is throwing at most two months at\n"
+
+"23.03.2020 16:34 - Michel Akyar : beybi are\n"
+
+"23.03.2020 16:35 Michel Akyar : you can 2. my girlfriend wants me or if you need the account\n"
+
+"23.03.2020 16:36 -  Michel Akyar: 4e no problem if I need to I said If you took to complete the customer I found him.\n"
+
+"23.03.2020 17:06 - YL Ben : No bro I have owned her, unfortunately.\n"
+
+"23.03.2020 17:07 - YL  Ben: I wanted to get news from him.\n"
+
+"23.03.2020 17:10 - YL  Ben: I bought with my cousin gave him an indefinite leave from Dec Corona gave the girl is sitting in the House, workplace,\n"
+
+"23.03.2020 17:10 - Michel Akyar : OK dear,\n"
+
+"23.03.2020 17:30 - YL  Ben: this is not good, but I will be a soap addict))\n"
+
+"23.03.2020 17:30 - Jack: it looks okay and I looked at the content\n"
+
+"23.03.2020 17:31 - YL  Ben: I started with the rise of the Ottoman Empire)\n"
+
+"23.03.2020 17:31 - Jack: The Witcher as well.\n"
+
+"23.03.2020 17:32 - Ben YL : Yeah, the trailer looked good\n"
+
+"23.03.2020 17:32 - Ben YL : a aquama playing without sight, there were tribes in the uncle which is fine, but I didn't think of the name\n"
+
+"23.03.2020 17:33 - Ben YL : this event increases the stock did netflixe\n"
+
+"23.03.2020 17:41 - Jack: Jason Momoa\n"
+
+"23.03.2020 17:41 - Ben YL : Yes\n"
+
+"23.03.2020 21:25 - Jack:  $ 10 if you want to have Tivibu 😁\n"
+
+"23.03.2020 23:18 -  Michel Akyar: no bro keep it, for now this is good :D\N"
+
+"23.03.2020 23:19 - YL  Ben: Spotifyda also have multiple accounts))\n"
+
+"23.03.2020 23:22 -  Michel Akyar: I have a cousin with that we entered batch :D\N"
+
+"23.03.2020 23:22 - Ben YL : :))\n"
+
+"6.04.2020 01:06 - Michel Akyar : Jack Dad, Are you Michelve, or\n"
+
+"6.04.2020 01:06 - Michel Akyar : Iban horse I'll send you my annual rates nesfliks\n"
+
+"6.04.2020 01:09 - Jack: OK tomorrow I'll throw us to spend the night because of Netflix 😁\n"
+
+"6.04.2020 01:09 - Michel Akyar : 🍻🥴\n"
+
+"6.04.2020 01:10 - Michel Akyar : your eyes may not be broken\n"
+
+"6.04.2020 01:13 - YL  Ben: :)))\n"
+
+"6.04.2020 17:28 - YL  Ben: Freud following Do you have?)\n"
+
+"6.04.2020 17:28 - Jack: haven't seen it\n"
+
+"6.04.2020 17:28 - Jack: how Ottoman\n"
+
+"6.04.2020 17:29 - Ben YL : Beautiful is monitored, but also very it's a documentary I need saapmam\n"
+
+"6.04.2020 17:29 - Ben YL : Aykut brother-in-law follow)))\n"
+
+"6.04.2020 17:29 - Jack: Documentary The Taste is a little disturbing.\n"
+
+"6.04.2020 17:29 - Ben  YL: I like it a lot\n"
+
+"6.04.2020 17:29 - Jack: a good movie That I watched.\n"
+
+"6.04.2020 17:30 - YL Ben : Turkish ice cream the last time I watched it was that good\n"
+
+"6.04.2020 17:30 - YL  Ben: there was so much emotion towards the end\n"
+
+"6.04.2020 17:30 - Jack: him, I watched too :)\n"
+
+"6.04.2020 17:30 - YL  Ben in the house and they were doing a Turkish flag fabric or something I swear, my eyes welled up\n"
+
+"6.04.2020 17:30 - YL  Ben: :)\n"
+
+"6.04.2020 17:31 - Ben YL : see episodes I've seen, but don't netflixte\n"
+
+"6.04.2020 17:31 - Jack: Yeah nice movie\n"
+
+"6.04.2020 17:31 - Jack: parasit me yesterday watched the Oscar winning movie\n"
+
+"6.04.2020 17:32 - Ben YL : this was how I didn't see him.\n"
+
+"6.04.2020 17:32 - Jack: netflix But not\n"
+
+"6.04.2020 17:32 - Jack: I think I watched Digiturk\n"
+
+"6.04.2020 17:33 - Ben YL : Well, you're a rich man Jack)) and don't))\n"
+
+"6.04.2020 17:33 - Ben YL : Naimi have you watched?\n"
+
+"6.04.2020 17:33 - Jack: Yeah I saw that too good\n"
+
+"6.04.2020 17:33 - Ben YL : they were talking about the future Netflixe\n"
+
+"6.04.2020 17:34 - Jack: total TV for $ 30 per month not a lot of money :)\n"
+
+"6.04.2020 17:34 - Jack: I bought to match him..\n"
+
+"6.04.2020 17:35 - Ben YL : look at if you bought it for Mac\n"
+
+"6.04.2020 17:35 - Ben YL : Continue the membership at least ettirsin\n"
+
+"6.04.2020 17:35 - Jack: officially just exploded.\n"
+
+"6.04.2020 17:36 - Ben YL : Fag bein '\n"
+
+"6.04.2020 17:36 - Jack: when we first started I called, they said We'll give you a gift package, and nothing official\n"
+
+"6.04.2020 17:36 - Jack: League starts\n"
+
+"6.04.2020 17:36 - Ben YL : darning are\n"
+
+"6.04.2020 17:37 - Jack: Yes, the Tribulation, i.e.,\n"
+
+"6.04.2020 20:28 - YL  Ben: Cinemax 2 months from the owners to defer the fee for the sports package!\n"
+
+"Digiturk, Sport package and freeze for a period of 2-month-holders received the package could afford to pay their bills announced that they can lower the price of the package.\n"
+
+"10.04.2020 09:46 - you have changed the icon of the group\n"
+
+"12.04.2020 21:15 - YL  Ben: profile photos it's very nice))\n"
+
+"12.04.2020 21:16 - YL  Ben: I would recommend The Bodyguard series)) some cakisfeksinli) freud following Do you have?\n"
+
+"12.04.2020 21:16 - Jack: the meaning and importance of the period, I made a study that indicates\n"
+
+"12.04.2020 21:16 - YL  Ben: :)\n"
+
+"12.04.2020 21:17 - Jack: We we are watching La Casa del Bucks\n"
+
+"12.04.2020 21:17 - YL  Ben: we've finished, her lovely)\n"
+
+"12.04.2020 21:19 -  Ben YEAR: I think it was suppose to be yesterday bortdey I say Happy Birthday day of birth) strawberries did you get?))\n"
+
+"13.04.2020 08:39 - Jack: Good Morning, yes, it was her birthday. We did shopping in bulk from the market. The cake did own it.\n"
+
+"13.04.2020 10:49 - Ben YL : Wow Mashallah cake looked great but the bread is not a flower)\n"
+
+"13.04.2020 10:53 - Jack: is social media so I don't follow what I'm learning from you first😀\n"
+
+"13.04.2020 10:57 - YL  Ben: :))\n"
+
+"14.04.2020 23:35 - Jack: <Media is not included>\n"
+
+"14.04.2020 23:35 - Michel Akyar : 🤣🤣🤣\n"
+
+"14.04.2020 23:35 - Michel Akyar : your view to watch Netflix More we broke\n"
+
+"14.04.2020 23:36 - Jack: 😁\n"
+
+"15.04.2020 11:48 - YL  Ben: Garden-Style)))) get your.....\n"
+
+"19.04.2020 02:14 - Michel Akyar : <Media is not included>\n"
+
+"19.04.2020 05:45 - YL  Ben: whole past Michelve in my eyes\n"
+
+"19.04.2020 08:09 - Jack: awesome Vaayyy\n"
+
+"19.04.2020 08:09 - Jack: you are a patron\n"
+
+"19.04.2020 20:16 - YL Ben : beautiful teens movie, watch The Lion) neksflisk badies\n"
+
+"19.04.2020 20:16 - Jack: Leon ?\n"
+
+"19.04.2020 20:17 - YL  Ben: no, unquestionable Leon already) someone is playing this Indian lion\n"
+
+"19.04.2020 20:17 - YL  Ben: the real story\n"
+
+"19.04.2020 20:17 - YL  Ben: Millionaire from the movie\n"
+
+"19.04.2020 20:17 - Jack: power Neksliks\n"
+
+"19.04.2020 20:18 - Jack: 😀\n"
+
+"19.04.2020 20:18 - YL  Ben: :)))\n"
+
+"19.04.2020 20:18 - YL  Ben: nice for us I swear it moved a champ))\n"
+
+"19.04.2020 20:18 - YL  Ben: Naim movie Netflix or why not E\n"
+
+"23.04.2020 13:58 - Jack: today I fixed to fall on the feast of referral neksfliksde you noticed a shortage in the morning now I don't know if I paid again\n"
+
+"23.04.2020 14:04 - YL  Ben: why the most exciting place I knocked in the film saying that's what happened)) I was like 2 in the morning last night, I didn't look neksfliks e Jack neksfliks thanks 👍\n"
+
+"23.04.2020 14:05 - Jack: I saw you looking for me today I wasn't aware of. A referral is not just for the holidays\n"
+
+"23.04.2020 14:11 - YL  Ben: 16 million new members can't afford netflix has more movies and gained the portfolio)))\n"
+
+"23.04.2020 14:27 - Jack: 😀\n"
+
+"29.04.2020 22:22 - Jack: <Media is not included>\n"
+
+"29.04.2020 23:04 - YL  Ben: the end of the world)\n"
+
+"30.04.2020 00:11 - YL  Ben: to the moment of the storm last night I watched the movie I would recommend La Casa de bucks is playing at the professor\n"
+
+"7.05.2020 22:16 -  Michel Akyar: seeeerkan beeey\n"
+
+"7.05.2020 22:16 -  Michel Akyar: netflikse I added a new user\n"
+
+"7.05.2020 22:16 - Michel Akyar : I think 5kisiye\n"
+
+"7.05.2020 22:16 - Michel Akyar : a wish it did ... \n"
+
+"7.05.2020 22:16 -  Michel Akyar: 5e divide the account\n"
+
+"7.05.2020 22:16 - Michel Akyar : :D\N"
+
+"7.05.2020 22:16 - Michel Akyar : take out a loan until the end of this year for me, dude\n"
+
+"7.05.2020 22:16 - Michel Akyar : Who am batch\n"
+
+"7.05.2020 22:35 - Michel Akyar : 135 doing I think I calculated\n"
+
+"7.05.2020 22:35 - Michel Akyar : until the end of the Year, wishing my total\n"
+
+"7.05.2020 22:35 - Michel Akyar : tomorrow im sending\n"
+
+"7.05.2020 22:41 - Jack: I guess no matter Izmir\n"
+
+"7.05.2020 22:42 - Jack: it does actually limit the user, but can be up to 4 people at the same time.\n"
+
+"7.05.2020 22:42 - Jack: therefore, we again split up into four, but wants to use it if you wish to use\n"
+
+"7.05.2020 22:43 - Jack: 6.5 TL per month\n"
+
+"7.05.2020 22:46 -  Michel Akyar: OK dear,\n"
+
+"7.05.2020 22:46 -  Michel Akyar: God bless you.\n"
+
+"7.05.2020 22:46 - Jack: I think I threw Iban ??\n"
+
+"7.05.2020 22:46 - Michel Akyar : your wish Hello\n"
+
+"7.05.2020 22:46 - Michel Akyar : Yeah, Dude, there are\n"
+
+"7.05.2020 22:46 - Michel Akyar : an annual fee, I'll\n"
+
+"7.05.2020 22:46 - Jack: you say\n"
+
+"7.05.2020 22:47 - Jack: OK now I think you're watching netfliks\n"
+
+"7.05.2020 22:47 - Jack: 😀\n"
+
+"7.05.2020 22:47 - Michel Akyar : no, my father he could be from My Account\n"
+
+"7.05.2020 22:47 - Michel Akyar : :D\N"
+
+"7.05.2020 22:47 - Jack: Izmir that you'd got a message log\n"
+
+"7.05.2020 22:47 - Michel Akyar : from homework for a while, I don\n"
+
+"7.05.2020 22:47 - Michel Akyar : exactly my father in Izmir\n"
+
+"7.05.2020 22:47 - Michel Akyar : :D\N"
+
+"7.05.2020 22:48 - Jack: Ok bye\n"
+
+"7.05.2020 22:48 -  Michel Akyar: 😘😘\n"
+
+"7.05.2020 22:51 - Ben YL : watching a movie, let me know and I'll )) Wish you out for your love you're going to waive))\n"
+
+"7.05.2020 22:51 - Michel Akyar : 🤣🤣🤣🤣\n"
+
+"7.05.2020 22:52 -  Michel Akyar: I'd give up everything for him 😏\n"
+
+"7.05.2020 22:52 - YL  Ben: because I'm getting Ss))\n"
+
+"7.05.2020 22:52 - YL  Ben: way to go 👏\n"
+
+"7.05.2020 22:52 - YL  Ben: Hanimcilik always wins\n"
+
+"7.05.2020 22:52 -  Michel Akyar: 🤣🤣\n"
+
+"9.05.2020 13:45 -  Michel Akyar: https://www.youtube.com/watch?v=fnKJzfwHLCc\n"
+
+"9.05.2020 15:59 - Ben YL : Man Goes karniyar says there's a subliminal message continues to give him karniyarig likes eggplant bastard)))))\n"
+
+"15.05.2020 20:48 - Jack: https://www.reddit.com/r/Turkey/comments/gdr57f/ramazan_ramazan_dedigine_bak_simdi/?utm_medium=android_app&utm_source=share\n"
+
+"15.05.2020 21:22 - YL Ben : <Media is not included>\n"
+
+"21.05.2020 17:52 - Ben YL : <Media is not included>\n"
+
+"21.05.2020 17:52 -  Michel Akyar: 🤣🤣🤣🤣\n"
+
+"21.05.2020 17:53 - Ben YL : Jack you come to the store we'll give up))\n"
+
+"21.05.2020 17:53 - Michel Akyar : Coming 3. The arm get ready\n"
+
+"21.05.2020 17:53 - Ben YL : Tripod)))\n"
+
+"21.05.2020 17:53 - Michel Akyar : House Insurance here is done\n"
+
+"21.05.2020 17:54 - Michel Akyar : <Media is not included>\n"
+
+"21.05.2020 17:54 - YL  Ben: the money from the left pocket to the right pocket aktarıcam I)))\n"
+
+"21.05.2020 17:54 -  Michel Akyar: 😂😂\n"
+
+"21.05.2020 17:54 - YL  Ben: :))))\n"
+
+"21.05.2020 17:59 - Ben YL : <Media is not included>\n"
+
+"21.05.2020 18:00 - Michel Akyar : 🤣🤣🤣🤣🤣🤣🤣🤣\n"
+
+"21.05.2020 18:00 - Ben YL : group discount))\n"
+
+"21.05.2020 18:00 - Michel Akyar : Whoa mk\n"
+
+"21.05.2020 18:00 - Michel Akyar : where did you find this\n"
+
+"21.05.2020 18:00 - Ben YL : travels in the shop such Jack)\n"
+
+"21.05.2020 18:00 - Michel Akyar : 🤣🤣🤣🤣🤣🤣🤣\n"
+
+"21.05.2020 18:00 - Ben YL : Thesis presentation such is attending)\n"
+
+"21.05.2020 18:01 - Michel Akyar : Olm where this device\n"
+
+"21.05.2020 18:01 - Michel Akyar : Where did\n"
+
+"21.05.2020 18:01 - Ben YL : abi in the Shop.\n"
+
+"21.05.2020 18:01 - Michel Akyar : write me 🤣\n"
+
+"21.05.2020 18:01 - Ben YL : Michel Akyar  also write\n"
+
+"21.05.2020 18:01 - Michel Akyar : Hahahahaahaha\n"
+
+"21.05.2020 18:02 - Ben YL : shop sparkling)\n"
+
+"21.05.2020 18:02 - Ben YL : Jack, it gives a subliminal message\n"
+
+"21.05.2020 18:03 - Ben YL : wife's laptop has failed\n"
+
+"21.05.2020 18:03 - Ben YL : waiting for him\n"
+
+"21.05.2020 18:04 - YL Ben : <Media is not included>\n"
+
+"21.05.2020 18:04 - YL Ben : Shop shop on the upper floor of 2 floors lower than normal, the software they're working on the Indian Pakistan employees) bitcoin they print\n"
+
+"21.05.2020 18:06 - Michel Akyar : <Media is not included>\n"
+
+"21.05.2020 18:07 - Michel Akyar : mk Where Are you and you\n"
+
+"21.05.2020 18:07 - YL  Ben: old but GOLD)))\n"
+
+"21.05.2020 18:08 - YL  Ben: we are a shop * we're in the right place\n"
+
+"21.05.2020 18:10 -  Michel Akyar: Naysss\n"
+
+"21.05.2020 18:10 -  Michel Akyar: real estate Erdonmez\n"
+
+"21.05.2020 18:11 - YL Ben : <Media is not included>\n"
+
+"21.05.2020 18:11 - Michel Akyar : Water the ads on TV I miss it.\n"
+
+"21.05.2020 18:11 - YL  Ben: Hahahahaha\n"
+
+"21.05.2020 18:26 - Michel Akyar : <Media is not included>\n"
+
+"21.05.2020 18:26 -  Ben YL: :))))))\n"
+
+"21.05.2020 18:28 - YL  Ben: 45 minutes sahlanmak use this medication if you want to completely natural with no side effects.\n"
+
+"24.05.2020 15:47 - Ben YL : follow Netflix on Youth memberships happy holidays look at those who don't watch, was cancelled))\n"
+
+"24.05.2020 15:50 - Michel Akyar : happy holidays my dear 😙\n"
+
+"24.05.2020 15:52 - Jack: teens spend with their families, everyone, Happy Happy Holidays\n"
+
+"29.05.2020 20:53 - Jack: <Media is not included>\n"
+
+"31.05.2020 15:11 - YL  Ben: the array to Turkish to join the new season of the player's) of robbing the Bank of Spain, Turkey, hot money, they'll put in) dollar falls, then they will say))\n"
+
+"31.05.2020 15:14 - YL  Ben: this week we Jack reverting to normal tomorrow we go to school at school at school together if you want to come on Thursday, let it be exam)\n"
+
+"31.05.2020 15:17 - YL  Ben: get you in the door\n"
+
+"31.05.2020 15:17 - Jack: Can\n"
+
+"31.05.2020 15:18 - Jack: synergy we need in the exam\n"
+
+"31.05.2020 15:18 - Jack: 😁\n"
+
+"31.05.2020 15:18 - Ben YL : :)))\n"
+
+"31.05.2020 15:18 - YL  Ben: on the exam you took you how many 80\n"
+
+"31.05.2020 15:18 - Jack: My eighty, I guess.\n"
+
+"31.05.2020 15:18 - Ben YL : OK👍\n"
+
+"23.06.2020 19:09 - Jack: gentlemen, we're better than a brand new service😀\n"
+
+"23.06.2020 19:10 - Jack: subscriptions to magazines such as National Geographic, $ 8\n"
+
+"23.06.2020 19:10 - Jack: on a monthly basis,\n"
+
+"23.06.2020 19:11 - Jack: do you want to get\n"
+
+"23.06.2020 19:16 - YL  Ben: Max, how many people becomes a partner\n"
+
+"23.06.2020 19:16 - Jack : none\n"
+
+"23.06.2020 19:16 - YL  Ben: TL 1 at that time everybody, let's let's move on land around us))\n"
+
+"23.06.2020 19:17 - Jack: magazine bulunmazki\n"
+
+"23.06.2020 19:17 - YL  Ben: What magazines you have, so if\n"
+
+"23.06.2020 19:17 - Jack: one magazine I call TL 8\n"
+
+"23.06.2020 19:17 - YL  Ben: Ooooo))\n"
+
+"23.06.2020 19:17 - YL  Ben: Googleplay there is that aspect?)\n"
+
+"23.06.2020 19:18 - Jack: no, unfortunately,\n"
+
+"23.06.2020 19:18 - Jack: 😁\n"
+
+"23.06.2020 19:18 - YL  Ben: Well enpara service\N"
+
+"23.06.2020 19:18 - Jack: Car Magazine there\n"
+
+"23.06.2020 19:18 - YL  Ben: you Or your subscription normal\n"
+
+"23.06.2020 19:19 - Jack: no, I was getting before for 2 years but I didn't get if you are wanting to start again\n"
+
+"23.06.2020 19:20 - Jack: June Magazine July 10unda sounds so cheap but\n"
+
+"23.06.2020 19:20 - YL  Ben: Hmm, let me think, National Geographic, e my life it's pretty far. In advance I used to watch TV now on TV, I have followed\n"
+
+"23.06.2020 19:20 - Ben YL : Magazines pdf ellemel't you?\n"
+
+"23.06.2020 19:20 - Jack: women's magazines, there are more\n"
+
+"23.06.2020 19:20 - Jack: printed\n"
+
+"23.06.2020 19:20 - YL  Ben: Well\n"
+
+"23.06.2020 19:20 - Jack: Car Magazine there\n"
+
+"23.06.2020 19:21 - YL  Ben: :)\n"
+
+"23.06.2020 19:21 - Jack: Alternative less afraid.\n"
+
+"23.06.2020 19:22 - YL Ben : here's a free service)\n"
+
+"23.06.2020 19:22 - Jack: Atlantic Monthly magazine current 12 TL\n"
+
+"23.06.2020 19:23 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:23 - Jack: Dergilik application\n"
+
+"23.06.2020 19:24 - YL  Ben: someone from the group had shared the Captain)))\n"
+
+"23.06.2020 19:25 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:25 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:26 - Jack: if printed online free 8\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:28 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:29 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:29 - Jack: <Media is not included>\n"
+
+"23.06.2020 19:30 - YL  Ben: each month, this is free application for reading\n"
+
+"23.06.2020 19:30 - Jack: Yes\n"
+
+"23.06.2020 19:30 - YL  Ben: good or this)\n"
+
+"23.06.2020 19:30 - Jack: pretty local and foreign magazines, there are\n"
+
+"23.06.2020 19:31 - Ben YL : <Media is not included>\n"
+
+"23.06.2020 19:31 - YL  Ben: Everyone suffer without placing the ad commentaries)\n"
+
+"23.06.2020 19:32 - Jack: after downloading the magazine hardship is not\n"
+
+"23.06.2020 19:33 - Ben YL : Well\n"
+
+"23.06.2020 19:33 - Ben YL : Well, then it is best\n"
+
+"2.07.2020 19:46 - Michel Akyar : <Media is not included>\n"
+
+"2.07.2020 19:47 - Jack: We Are..Sigh\n"
+
+"2.07.2020 21:11 - YL  Ben: you grief again, but enough is enough)))\n"
+
+"3.07.2020 10:06 - Jack: <Media is not included>\n"
+
+"3.07.2020 10:06 - Jack: distressed sprout next\n"
+
+"3.07.2020 10:38 - Ben YL : they are always adding new films films they're doing the same wide summary\n"
+
+"24.11.2020 14:00 - Jack: <Media is not included>\n"
+
+"24.11.2020 14:01 - Michel Akyar : hahahhahahaha\n"
+
+"24.11.2020 14:01 - Michel Akyar : reyis up, or\n"
+
+"24.11.2020 14:01 - Jack: Netflix badies up\n"
+
+"24.11.2020 14:01 - Michel Akyar : how much I owe you.\n"
+
+"24.11.2020 14:01 - Michel Akyar : I was going to write you good riddance abi examinations busy\n"
+
+"24.11.2020 14:01 - Michel Akyar : how much is the monthly came in for a raise\n"
+
+"24.11.2020 14:01 - Michel Akyar : do you have a student discount abi\n"
+
+"24.11.2020 14:01 - Jack: until months after I bought these on sale this month, so at the regular price will go 42 TL\n"
+
+"24.11.2020 14:02 - Jack: can you please everyone let's go on 👍\n"
+
+"24.11.2020 14:02 - Michel Akyar : Joe wasn't sure, but\n"
+
+"24.11.2020 14:02 - Michel Akyar : I'm glad\n"
+
+"24.11.2020 14:02 - Michel Akyar : 42 months total\n"
+
+"24.11.2020 14:02 - Michel Akyar : 14 pounds per person.\n"
+
+"24.11.2020 14:03 - Jack: for he was taking two\n"
+
+"24.11.2020 14:03 - Jack: like 4 people Total\n"
+
+"24.11.2020 14:03 - Michel Akyar : The Ben, Let's continue with the lesson.\n"
+
+"24.11.2020 14:03 - Michel Akyar : also I\n"
+
+"24.11.2020 14:03 - Michel Akyar : more than 1 years, we can extend his contract\n"
+
+"24.11.2020 14:04 - Jack Me I can continue\n"
+
+"24.11.2020 14:04 - Michel Akyar : optional\n"
+
+"24.11.2020 14:04 - Jack: can I also look to the right lesson to continue\n"
+
+"24.11.2020 14:04 - Michel Akyar : OK bro\n"
+
+"24.11.2020 14:05 - Michel Akyar : I've been paid in the last month\n"
+
+"24.11.2020 14:05 - Jack: you, you're Perfect, Now\n"
+
+"24.11.2020 14:06 - Michel Akyar : none of these last month so I gave up\n"
+
+"24.11.2020 14:06 - Jack: Yes, paid this month\n"
+
+"24.11.2020 14:06 - Michel Akyar : December 2021e much if I pay, then\n"
+
+"24.11.2020 14:07 - Jack: Ben no matter arrow\n"
+
+"24.11.2020 14:07 - Michel Akyar : ok\n"
+
+"24.11.2020 14:31 - YL  Ben: Well, I'm not very happy, in fact, something new is not added\n"
+
+"24.11.2020 14:33 - Ben YL : can you explain Jack Renaissance Excel table)) what is the status of\n"
+
+"24.11.2020 14:41 - YL Ben :  2 a share is going to be then I'll keep mine.\n"
+
+"24.11.2020 14:54 - Jack: monthly payments on the left side. If you are doing discount credit card each month, I'll have him. So, every month the payment is not same\n"
+
+"24.11.2020 14:55 - Jack: how much you are paying right through\n"
+
+"24.11.2020 15:08 - Jack: <Media is not included>\n"
+
+"24.11.2020 15:58 - Michel Akyar : let's ask an Iban beautiful than you\n"
+
+"24.11.2020 16:02 - Michel Akyar : my buddy Fu-120 I think, or\n"
+
+"24.11.2020 16:02 - Michel Akyar : 7 months\n"
+
+"24.11.2020 16:19 - Jack: November + December 6 months + \n"
+
+"24.11.2020 16:20 - Jack: calculated approximately 130 TL\n"
+
+"24.11.2020 16:21 - Jack: TR720006701000000049900355\n"
+
+"24.11.2020 16:23 -  Akyar Michel: all right, dear.\n"
+
+"24.11.2020 16:26 - Ben YL : Jack also 147.9 (October 13,5 + 16,8*8 months) I calculated, but plain account for $ 150 I send flaw 🏇 I would like Lara.\n"
+
+"24.11.2020 16:27 - Jack: okay, it's no problem\n"
+
+"24.11.2020 16:28 - YL Ben : you're not a stranger)) well, stop and meatballs in town, I swear I miss eating raw meat dorm corners pizza\n"
+
+"24.11.2020 16:28 - Michel Akyar  -: really or mk\n"
+
+"24.11.2020 16:29 -  Michel Akyar: pomegranate white corona destroyed\n"
+
+"24.11.2020 16:29 -  Michel Akyar: closed\n"
+
+"24.11.2020 16:29 -  Michel Akyar: Dec rent passing by, I saw, I read the bi\n"
+
+"24.11.2020 16:32 - Ben YL : White pomegranate missed karsiiim))) when ordering, a smile when you say we get confused we parked the car in the middle of the man sitting next to the electric heater burning only I missed\n"
+
+"24.11.2020 16:37 -  Michel Akyar: Hahahahah\n"
+
+"24.11.2020 16:37 -  Michel Akyar: a moment of all ancient history now.\n"
+
+"24.11.2020 16:38 - Michel Akyar : pomegranate white dead\n"
+
+"24.11.2020 16:38 - Michel Akyar : Now bloody NAR\n"
+
+"24.11.2020 16:38 - Michel Akyar : blood red pomegranate\n"
+
+"24.11.2020 16:39 - Ben YL : unfortunately, such small trades well sunk standing ramiz\n"
+
+"24.11.2020 16:39 - Ben YL : Jack I made a deposit of $ 150\n"
+
+"7.12.2020 14:36 - Michel Akyar : <Media is not included>\n"
+
+"7.12.2020 14:36 -  Michel Akyar: serkaaaaaan\n"
+
+"7.12.2020 14:36 -  Michel Akyar: posted by Bro what's the name here\n"
+
+"7.12.2020 14:36 -  Michel Akyar: what you do now I'm gonna rent nesfliks I will write first and last name instead of\n"
+
+"7.12.2020 14:36 - Ben YL : Jack Sure\n"
+
+"7.12.2020 14:36 -  Michel Akyar: ok\n"
+
+"7.12.2020 14:36 -  Michel Akyar: soldier never returns\n"
+
+"7.12.2020 14:36 -  Woodside Michel middle: this last name\n"
+
+"7.12.2020 14:50 - Jack: 👍\n"
+
+"23.12.2020 18:30 -  Ben YL: <Media is not included>\n"
+
+"23.12.2020 21:52 - Jack: 1 How many hours a nuisance ... \n"
+
+"23.12.2020 21:52 - Jack: 7 became active again\n"
+
+"23.12.2020 21:52 - Jack: Rose Island we have completed, Now\n"
+
+"23.12.2020 21:53 - Jack: I would recommend in the meantime,\n"
+
+"23.12.2020 21:53 - Ben YL : 👍 OK, we were afraid we were hungry we also Dec))\n"
+
+"23.12.2020 21:55 - Jack: Card auto-pay out much later that I found\n"
+
+"23.12.2020 21:57 - YL Ben : 👍\n"
+
+"23.12.2020 22:32 -  Michel Akyar: Seeeeerkannnnnnn\n"
+
+"23.12.2020 22:32 -  Michel Akyar: (by the sound of screaming)\n"
+
+"23.12.2020 22:36 - Ben YL : :))\n"
+
+"23.12.2020 22:38 - Jack: 😭\n"
+
+"31.12.2020 13:22 - Michel Akyar : <Media is not included>\n"
+
+"31.12.2020 13:22 - Jack: what\n"
+
+"31.12.2020 13:22 -  Michel Akyar: Seeeeeeeerkaaaaan\n"
+
+"31.12.2020 13:22 - Michel Akyar : How is what\n"
+
+"31.12.2020 13:22 - YL  Ben: tears in the eyes of those who remember)))\n"
+
+"31.12.2020 13:22 - Jack: you're reliving the old days 👍\n"
+
+"31.12.2020 13:22 -  Michel Akyar: forget the night we spent here\n"
+
+"31.12.2020 13:22 - YL Ben : 😂😂😂\n"
+
+"31.12.2020 13:22 - YL  Ben: those were the days\n"
+
+"31.12.2020 13:23 -  Michel Akyar: Cigkofteli\n"
+
+"31.12.2020 13:23 - Michel Akyar : Birth-time\n"
+
+"31.12.2020 13:23 - YL  Ben: Hahaha well either\n"
+
+"31.12.2020 13:23 - YL  Ben: closing was sorry to hear about the loss\n"
+
+"31.12.2020 13:23 - Michel Akyar : I'm going to soon katmerci\n"
+
+"31.12.2020 13:23 - Michel Akyar : I'll buy you if it's Open.\n"
+
+"31.12.2020 13:24 - YL  Ben: Bon Appetit)\n"
+
+"31.12.2020 13:24 -  Akyar Michel: thank you, sweetie.\n"
+
+"31.12.2020 13:51 - Michel Akyar : <Media is not included>\n"
+
+"31.12.2020 13:51 - Michel Akyar : <Media is not included>\n"
+
+"31.12.2020 13:51 - Michel Akyar : kaattttttmerci are\n"
+
+"31.12.2020 13:53 - Ben YL : Oooooooo\n"
+
+"31.12.2020 13:58 - Jack: can we say Order\n"
+
+"31.12.2020 14:02 - Ben YL : :)))\n"
+
+"4.03.2021 12:55 - Jack: https://twitter.com/sMichelhmantas/status/1367398325394305026?s=08\n"
+
+"4.03.2021 12:56 - Michel Akyar  : us🤣\n"
+
+"4.03.2021 12:57 - Michel Akyar : Im out abi\n"
+
+"4.03.2021 12:57 - Jack: I saw there was no agenda on Twitter\n"
+
+"4.03.2021 12:57 - Michel Akyar : I hardly already watching\n"
+
+"4.03.2021 12:57 - Michel Akyar : 1 person 26tl yuh membership\n"
+
+"4.03.2021 12:57 - Michel Akyar : get better Digiturk mk\n"
+
+"4.03.2021 13:02 - Ben YL : Hoydaaaaaa\n"
+
+"4.03.2021 13:02 -  YL Ben: what about this dude\n"
+
+"4.03.2021 13:03 - YL  Ben: Let's fuck then\n"
+
+"4.03.2021 13:04 - Michel Akyar : let's say I think dr\n"
+
+"4.03.2021 13:05 - Ben YL : so many great things lately that is not already added\n"
+
+"4.03.2021 13:09 - Ben YL : Jack you monthly you were putting the money isn't it? The period when this month ends we?\n"
+
+"4.03.2021 13:09 - Jack: 23 download from the 23rd to the\n"
+
+"4.03.2021 13:09 - Jack: Monthly US 40 next\n"
+
+"4.03.2021 13:10 - Jack: £ 15 discount card is doing, because\n"
+
+"4.03.2021 13:11 - Jack: shall we go ??\n"
+
+"4.03.2021 13:11 - YL  Ben: Discount US was unfinished.\n"
+
+"4.03.2021 13:11 - Jack: Enpara finished, but started in March cebteteb\n"
+
+"4.03.2021 13:12 - Jack: October Enpara like ran out\n"
+
+"4.03.2021 13:14 - Jack: <Media is not included>\n"
+
+"4.03.2021 13:14 - Jack: the last was the case\n"
+
+"4.03.2021 13:15 - Jack: September enpara was used £ 27\n""
+
+"4.03.2021 13:16 - Jack: World card we used was on October 22tl\n"
+
+"4.03.2021 13:16 - Jack: January bill forward to the day I threw on Day 1. So £ 45\n""
+
+"4.03.2021 13:17 - Jack: TL the 27th of this month, but next month will be if we continue 40tl\n"
+
+"4.03.2021 13:18 - YL  Ben: he wants to get out the vote and other\n"
+
+"4.03.2021 13:18 - Jack: 👍\n"
+
+"4.03.2021 13:19 - YL  Ben: a raise already that they will not normallestik\n"
+
+"4.03.2021 13:24 - Jack:  or inference also if I then continue\n"
+
+"4.03.2021 13:25 - Michel Akyar : if I keep my future how much monthly\n"
+
+"4.03.2021 13:27 - Ben YL : calculating the new route\n"
+
+"4.03.2021 13:27 - Jack: 5 people monthly 8tl\n"
+
+"4.03.2021 13:28 - Jack: 3 TL per person 13 person-months\n"
+
+"4.03.2021 13:28 - YL  Ben: I gave 16,8 TL-month\n"
+
+"4.03.2021 13:28 - YL  Ben: then the three of you continue on the road.\n"
+
+"4.03.2021 13:29 - Michel Akyar : if I continue it adds 13 pounds\n"
+
+"4.03.2021 13:30 - Jack: 5 people right now I've got it wrong if we keep per person, $ 8 will be\n"
+
+"4.03.2021 13:30 - Jack: 16 TL 2, as\n"
+
+"4.03.2021 13:30 - Michel Akyar : I think this is beautiful E\n"
+
+"4.03.2021 13:30 - Michel Akyar : warn me\n"
+
+"4.03.2021 13:31 - Jack: Ben continues this price will be\n"
+
+"4.03.2021 13:31 -  Michel Akyar: 👍\n"
+
+"4.03.2021 13:31 - Ben YL : 🤓\n"
+
+"4.03.2021 13:31 - YL  Ben: how long the discount will continue TEB\n"
+
+"4.03.2021 13:31 - Jack: the end of the Year.\n"
+
+"4.03.2021 13:32 - Jack: https://www.cepteteb.com.tr/dijital-platform-uyeligi-yuzde50-indirim\n"
+
+"4.03.2021 13:32 - Jack: Annual MAX will be $ 100, but if we continue as September ends\n"
+
+"4.03.2021 13:34 - Ben YL : okay then I gave June money, including still change the price again, if so let me know Jack. Devamke then until the end of June.\n"
+
+"4.03.2021 13:35 - Jack: now the last time I threw excell vMicheld\n"
+
+"4.03.2021 13:35 - Jack: I'll tell you if something different happens\n"
+
+"4.03.2021 13:36 -  Ben YEAR: June aren't included in Excel?))\n"
+
+"4.03.2021 13:36 -  Ben YL: in these circumstances\n"
+
+"4.03.2021 13:37 - Jack: in June a partial discount on July discount\n"
+
+"4.03.2021 13:38 - YL  Ben: Okay, we're out of credit let you know when)\n"
+
+"4.03.2021 13:40 - Michel Akyar : not now, dear, let me know when we'll send you with FAST EFT😅\n"
+
+"4.03.2021 13:41 -  Michel Akyar: how's it going Doctor serrrrrkan\n"
+
+"4.03.2021 13:41 -  Michel Akyar: Erdek are you\n"
+
+"4.03.2021 13:46 - Jack: the doctor is good\n"
+
+"4.03.2021 13:46 - Jack: <Media is not included>\n"
+
+"4.03.2021 13:46 - YL  Ben: over the period of the course subject))\n"
+
+"4.03.2021 13:46 - Jack: this is a fancy word\n"
+
+"4.03.2021 13:47 - Jack: I'm learning Python\n"
+
+"4.03.2021 13:47 - YL  Ben: Jack you aren't saving my balance at the end of June.\n"
+
+"4.03.2021 13:47 - Michel Akyar : we will see if the remaining balance is\n"
+
+"4.03.2021 13:47 - Jack: Yes save\n"
+
+"4.03.2021 13:47 - Michel Akyar : 77 goes My So for a few months.\n"
+
+"4.03.2021 13:47 - Jack: the coins remaining after payment of the remaining balance\n"
+
+"4.03.2021 13:48 - Jack: yes, it\n"
+
+"4.03.2021 13:50 - Ben YL :  after October November December share 2 share the same with me, I thought we agreed that it should be truncated.\n"
+
+"4.03.2021 13:51 - YL  Ben: the remaining balance must be the same as mine with the \n"
+
+"4.03.2021 13:51 - Jack: so I did it in January we started\n"
+
+"4.03.2021 13:51 - YL  Ben: the account here\n"
+
+"4.03.2021 13:52 - Jack: Correction\n"
+
+"4.03.2021 13:52 - YL  Ben: we're tired tenks you swear Jack,\n"
+
+"4.03.2021 13:52 - Jack: 👍\n"
+
+"4.03.2021 13:52 - Jack: it's a good thing to say it's okay\n"
+
+"4.03.2021 13:53 - Ben YL : all right, how Phyton wanted to find out a Dec. Udemy how you're looking at, or something you can't offer the course or instructor do you have?\n"
+
+"4.03.2021 13:54 - Jack: a Google Summer sarcasm yazbel\n"
+
+"4.03.2021 13:54 - Jack: Udemy as a resource to help\n"
+
+"4.03.2021 13:55 - YL  Ben: Software either cute Disclosure Project+!\n"
+
+"4.03.2021 13:55 - YL  Ben: OH, There is a super pretty thing\n"
+
+"4.03.2021 13:57 - Jack: if you start yardimlasir we are\n"
+
+"4.03.2021 13:57 - YL Ben : 👍\n"
+
+"4.03.2021 13:59 - Jack: <Media is not included>\n"
+
+"4.03.2021 13:59 - Jack: November to December was the same as\n"
+
+"4.03.2021 14:04 - YL Ben : 👏\n"
+
+"22.05.2021 13:39 - Jack: gentlemen, have a good day\n"
+
+"Proficiency exams are approaching. For this reason, we freeze for 1 month Netflix I? Normally renewing membership on the 24th of each month. Just an idea, I'm open to suggestions.\n"
+
+"22.05.2021 14:06 - YL  Ben: Hello I couldn't get into as I continue let them Jack quMichelfication mode, but the majority are warning\n"
+
+"22.05.2021 14:22 - Michel Akyar : 1 month I think or we won't be\n"
+
+"22.05.2021 14:23 -  Michel Akyar: sometimes I'm watching friends\n"
+
+"22.05.2021 14:25 - YL  Ben: I think that Netflix will participate in the tender Super League broadcast\n"
+
+"22.05.2021 15:59 - Jack: broadcast auction event heard, would be a good time. Then let's continue neksfiliz\n"
+
+"28.06.2021 13:00 - Ben YL : Jack what Netflix case\n"
+
+"28.06.2021 13:01 - Ben YL : Our payments was the end of June. For July did you pay? I'm thinking about going in July. What do you think?\n"
+
+"28.06.2021 13:05 - Michel Akyar : if it interests you, also inference\n"
+
+"28.06.2021 13:05 - Michel Akyar : 😅\n"
+
+"28.06.2021 13:06 - Jack: on the 24th of each month, I'm paying. The last situation I\n"
+
+"28.06.2021 13:07 - Michel Akyar : us until the end of the year you take out a bill, dude\n"
+
+"28.06.2021 13:07 - Michel Akyar : if appropriate, continue\n"
+
+"28.06.2021 13:08 - Jack: I can keep going.  package we'll take it from the bottom, if not\n"
+
+"28.06.2021 13:09 - Ben YL : lower the package is for 2 people?\n"
+
+"28.06.2021 13:09 - Jack: <Media is not included>\n"
+
+"28.06.2021 13:09 - Ben YL : 24unde of July did you did you pay\n"
+
+"28.06.2021 13:10 - Jack: continues until July 24. You gave him the money also will continue on 24 August\n"
+
+"28.06.2021 13:11 - YL  Ben: August 24, if okay, then I'll see you)) early, you got a little bit of time\n"
+
+"28.06.2021 13:11 - Jack: Last Look I threw the list\n"
+
+"28.06.2021 13:15 - YL  Ben: netflix thoroughly broke a lot of new content but doesn't\n"
+
+"28.06.2021 13:16 - Jack: La Casa de papel is coming on September\n"
+
+"28.06.2021 13:16 - YL  Ben: luck)))\n"
+
+"28.06.2021 13:16 - Jack: 3 September when they said:\n"
+
+"23.07.2021 20:39 - Ben YL : Jack happy birthday, nice and healthy and Happy New Year 🎉🎉🎉\n"
+
+"23.07.2021 20:40 -  Michel Akyar: happy birthday Jackcig 🎂🫂\n"
+
+"23.07.2021 20:52 - Jack: thank you thank you see you 👍\n"
+
+"6.08.2021 10:05 - Jack: <Media is not included>\n"
+
+"6.08.2021 11:26 - YL Ben : enjoy))) Maras't it?)\n"
+
+"12.09.2021 16:52 - Ben YL : <Media is not included>\n"
+
+"12.09.2021 16:54 -  Michel Akyar: a people and a katmerrrrr\n"
+
+"12.09.2021 16:54 -  Michel Akyar: Bon Appetit my exam tomorrow to success for young people\n"
+
+"12.09.2021 16:54 -  Michel Akyar: always go to eat them\n"
+
+"12.09.2021 16:54 -  Michel Akyar: :D\N"
+
+"12.09.2021 16:55 - YL  Ben: thank you my dear))\n"
+
+"12.09.2021 16:55 - YL  Ben: Let's go least 3 people)))\n"
+
+"12.09.2021 16:55 - Michel Akyar : hahahaha\n"
+
+"12.09.2021 16:55 - YL  Ben: before the exam, not the weight)))\n"
+
+"12.09.2021 16:55 -  Michel Akyar: bandirma, but not very good\n"
+
+"12.09.2021 16:55 -  Michel Akyar: we can still eat\n"
+
+"12.09.2021 16:55 - YL  Ben: I hope we go))\n"
+
+"12.09.2021 16:55 - YL  Ben: we eat or\n"
+
+"12.09.2021 16:55 - YL  Ben: Karacabey may be\n"
+
+"12.09.2021 16:55 - YL  Ben: I'm still\n"
+
+"12.09.2021 16:56 - Michel Akyar : exactly tavac Refik\n"
+
+"12.09.2021 16:56 - Ben YL : :))\n"
+
+"12.09.2021 16:56 -  Michel Akyar: Go-Go test\n"
+
+"12.09.2021 16:56 - Ben YL : Oki\n"
+
+"12.09.2021 17:20 - Jack:  mining I'm doing. See 🤓\n"
+
+"12.09.2021 17:24 - Michel Akyar : OK bro what you have in the hands of Cards :D\N"
+
+"12.09.2021 17:25 - Jack: 1030 2gb now, but the new one\n"
+
+"12.09.2021 17:25 - Jack: new starting\n"
+
+"12.09.2021 17:26 - Michel Akyar : there is a single card\n"
+
+"12.09.2021 17:26 - Jack: Yes\n"
+
+"12.09.2021 17:26 - Jack: what you got\n"
+
+"12.09.2021 17:29 -  Michel Akyar: 2 3060ti\n"
+
+"12.09.2021 17:29 - Michel Akyar : you?\n"
+
+"12.09.2021 18:00 - Ben YL : 3060ti 2)) Mashallah\n"
+
+"12.09.2021 18:01 - Michel Akyar : 1030 2gb you have\n"
+
+"12.09.2021 18:01 - Michel Akyar : do not bring anything that does not meet the power or\n"
+
+"12.09.2021 18:43 - Jack: in the beginning I got it for other things.\n"
+
+"18.09.2021 11:17 - Jack: <Media is not included>\n"
+
+"18.09.2021 11:17 - Jack: Good Morning, what should we do ??\n"
+
+"18.09.2021 11:19 - YL  Ben: how worldcard campaign is continuing in the next months payments will be\n"
+
+"18.09.2021 11:19 - YL  Ben: Good Morning\n"
+
+"18.09.2021 11:20 - Jack: None cebteteb there was 3 months old that I'll pay. Monthly $ 40 will be\n"
+
+"18.09.2021 11:21 - YL  Ben: I don't watch Netflix like we used to, but the majority of stimulation by the end of the year I ok\n"
+
+"18.09.2021 11:22 - Jack: I'll keep mine. The right lesson to continue to look at \n"
+
+"18.09.2021 11:22 - Ben YL : 👍\n"
+
+"18.09.2021 11:23 - Ben YL : Jack what was the name of the machine learning course? The course is also a friend, he was looking at\N"
+
+"18.09.2021 11:26 - Jack: there is a lesson in a lot of places.\n"
+
+"18.09.2021 11:26 - Jack: I said 5000tl\n"
+
+"18.09.2021 11:26 - Jack: Or ingredients on Udemy or\n"
+
+"18.09.2021 11:27 - Ben YL : Yeah 5k\n"
+
+"18.09.2021 11:27 - Jack: summer bootcamp on the internet vbo take off\n"
+
+"18.09.2021 11:27 - Jack: Vahid have Sharp hoca\n"
+
+"18.09.2021 11:27 - Ben YL : all right, I say thank you\n"
+
+"18.09.2021 11:28 - Jack: this semester I'm going. Now at the early bird registration discount\n"
+
+"18.09.2021 11:28 - YL Ben : 👍\n"
+
+"18.09.2021 11:52 -  Michel Akyar: Hi, I think Gensler, we can\n"
+
+"18.09.2021 11:52 -  Michel Akyar: Jack dude off until the end of the Year send us a bill\n"
+
+"18.09.2021 11:52 -  Michel Akyar: new year we'll revisit\n"
+
+"18.09.2021 11:53 - Jack: Average around $ 70\n"
+
+"18.09.2021 11:54 -  Michel Akyar: OK I 80 on the way - says 8\n"
+
+"18.09.2021 11:54 - Jack: I added him\n"
+
+"18.09.2021 11:54 -  Michel Akyar: Iban dear at\n"
+
+"18.09.2021 11:54 - Jack: TR720006701000000049900355\n"
+
+"18.09.2021 11:59 - YL  Ben: Jack events we settle up the cargo and complete\n"
+
+"18.09.2021 12:05 - Michel Akyar : who belongs to Jack this account\n"
+
+"18.09.2021 12:05 - Michel Akyar : em******* er*****\n"
+
+"18.09.2021 12:05 - Michel Akyar : if I should write this\n"
+
+"18.09.2021 12:18 - Jack: Jack Sure Erdonmez\n"
+
+"18.09.2021 12:19 - Jack: Kayseri, can we we'll stop. My dad have jobs. My mother also will stay in Ankara. So we'll move away from Iskenderun,\n"
+
+"18.09.2021 12:51 - YL  Ben: Okay I'm waiting for my friend Jack Adnan Hodja went from him because I didn't grow bandirma day he left the ship Thursday Monday\n"
+
+"18.09.2021 13:29 - Michel Akyar : bro I sent\n"
+
+"18.09.2021 13:45 - Jack: 👍\n"
+
+"25.09.2021 20:31 - YL  Ben: do you have good tutorials on neoskola Greetings 299 GBP annual membership\n"
+
+"25.09.2021 20:31 - Ben YL : 3umuz we can't use\n"
+
+"25.09.2021 21:15 - Michel Akyar : Dude, I'm in so much debt these days\n"
+
+"25.09.2021 21:15 - Michel Akyar  Mining drained me\n"
+
+"25.09.2021 21:17 - YL  Ben: OK dude stop China a fucked up mess amk\n"
+
+"25.09.2021 21:24 -  Michel Akyar: coming to me\n"
+
+"25.09.2021 21:24 -  Michel Akyar: you are here\n"
+
+"25.09.2021 21:25 - Michel Akyar : do you think I'm gonna laden with coins\n"
+
+"25.09.2021 21:25 -  Michel Akyar: Leveraged\n"
+
+"25.09.2021 21:29 - Jack: I don't know what it is\n"
+
+"25.09.2021 21:35 - Jack: that's fine with me, but it would be better if we go towards the end of the year. Now I'm training through miuul\n"
+
+"25.09.2021 22:20 - Ben  YEAR: we'll revisit at the end of all years. A site such as Udemy.\n"
+
+"25.09.2021 22:21 - Jack: later I looked 👍\n"
+
+"25.09.2021 22:21 - YL  Ben: more pseudo-intellectual lace posters have names)\n"
+
+"7.10.2021 13:49 - Ben YL : Jack netflixe also I'm throwing 80 + 50 total quMichelfication 130\n"
+
+"7.10.2021 14:05 - Jack: do you have to give you will get from Izmir. We went in your car\n"
+
+"7.10.2021 14:06 - YL  Ben: the hotel is equivalent to the money already that I will not\n"
+
+"7.10.2021 14:06 - YL  Ben: the more we go))\n"
+
+"7.10.2021 14:06 - Jack: ok\n"
+
+"7.10.2021 14:06 - YL Ben : vs my thesis work, I haven't heard from anyone determining\n"
+
+"7.10.2021 14:06 -  Ben YL: 6 months, they said, but I'm not sure\n"
+
+"7.10.2021 14:06 - Jack: someone can come from they say.\n"
+
+"7.10.2021 14:07 - YL  Ben: :)))\n"
+
+"7.10.2021 14:07 - Jack: you need to be ready\n"
+
+"7.10.2021 14:07 - YL  Ben: yes\n"
+
+"7.10.2021 14:07 - Jack: meanwhile, the squid follow the game\n"
+
+"7.10.2021 14:08 - YL  Ben: we begin the evening became very popular sherlock finished))\n"
+
+"7.10.2021 14:10 - Jack: Beautiful array\n"
+
+"7.10.2021 14:11 - YL  Ben: he's phenomenon)))\n"
+
+"31.12.2021 00:15 - YL  Ben: Hi everyone Gain.tv there was a campaign s so special. 13,90 3,90 instead of monthly. \n"
+
+"The site is one thing like that in writing.\n"
+
+"Can I watch on many devices at the same time gain?\n"
+
+"EARNING your account is active you can use 3 different devices at the same time.\n"
+
+"31.12.2021 10:40 - Ben YL : Jack Demir Michel I talked to said Okay, what do you think?\n"
+
+"31.12.2021 10:40 - Jack: warn me\n"
+
+"31.12.2021 10:40 - Jack: Netflix will go with\n"
+
+"31.12.2021 10:41 - Ben YL : bam bam bam no way Netflix\n"
+
+"31.12.2021 10:43 - Ben YL : Monthly programs that are not 3,90 regular price 13,90 very much on the agenda, movies, blah blah\n"
+
+"31.12.2021 10:43 - Jack: Ok\n"
+
+"31.12.2021 10:48 - YL  Ben: 3 years personMichelty subscriber members now Total  46,80 TL\n"
+
+"31.12.2021 10:48 - Jack: Ok\n"
+
+"31.12.2021 10:48 - Ben YL : demirMichelAkyar@hotmail.com\n"
+
+"31.12.2021 10:48 - Ben YL : Doktora3\n"
+
+"4.01.2022 12:36 - Jack: <Media is not included>\n"
+
+"4.01.2022 13:37 - YL  Ben: Okay Jack certain other months of the tariff is not for him, how about you make a monthly payment, or 5 to 6\n"
+
+"4.01.2022 13:42 - Jack: other I can't say anything for months. the end of the year finished all the campaigns. towards the end of the month, new ones may arise. if anything happens I'll let you know changing\n"
+
+"4.01.2022 13:43 - Ben YL : Well, then do you pay month to month\n"
+
+"4.01.2022 16:25 -  Michel Akyar: lunar boring\n"
+
+"4.01.2022 16:26 - description Michel Akyar  Group changed\n"
+
+"4.01.2022 16:26 -  Michel Akyar: 100 pounds atesleyim brother add to my wallet :D\N"
+
+"4.01.2022 16:26 -  Michel Akyar: IBA Group Description I wrote, easy to find, right Jack demi the Iban\n"
+
+"4.01.2022 16:26 - Jack: I'm looking at now.\n"
+
+"4.01.2022 16:28 - Jack: Iban is correct\n"
+
+"4.01.2022 18:52 - YL  Ben: You Owe Me 16 pounds of  and is different\n"
+
+"4.01.2022 18:53 - Jack: look in the settings for the remaining balance.\n"
+
+"4.01.2022 18:53 - Jack: right\n"
+
+"4.01.2022 18:53 - Jack: paid monthly on the left, right and the rest of that money you paid\n"
+
+"4.01.2022 18:54 - YL  Ben: are we going then the remaining balance from 8,70\n"
+
+"4.01.2022 18:54 - YL  Ben: I'll pay you.\n"
+
+"4.01.2022 18:56 - Jack: for example you paid 4 times the monthly pay is stuck 7,3 TL\n"
+
+"4.01.2022 18:56 - Jack: 16 TL of each month you paid is on the Left\n"
+
+"4.01.2022 18:57 - YL  Ben: okay then next month I still 7,30 plus 16 - so I'll give 7,30?))\n"
+
+"4.01.2022 18:57 - Jack: damn right 👍\n"
+
+"4.01.2022 18:58 - YL  Ben: I'm still at school, have work in the morning since the simulator was a million head. Thank God we did a grocery account)))\n"
+
+"4.01.2022 18:58 - Jack: 😄\n"
+
+"4.01.2022 18:59 - YL  Ben: do you have anything that you thought it was my thesis work a certain date\n"
+
+"4.01.2022 18:59 - Jack: nothing more.\n"
+
+"4.01.2022 18:59 - Ben YL : :))\n"
+
+"4.01.2022 18:59 - Jack: have you heard anything\n"
+
+"4.01.2022 18:59 - YL  Ben: No, I've heard too\n"
+
+"4.01.2022 19:00 - Ben YL :  and went to Izmir after meeting online, they want a wet signature papers. The teachers board + the signature of the dean of needed. Dean feels the school board asking again I guess that is what's usually Monday and we can go together\n"
+
+"4.01.2022 19:03 - Jack: all right, we'll Talk\n")
